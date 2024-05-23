@@ -1,0 +1,60 @@
+{
+    "uuid": [
+        {
+            "value": "fe623eb7-096b-4a7f-a309-3c736f785e6e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "325db809-b57b-492a-ad5b-c7f8362e1c35"
+        }
+    ],
+    "filename": [
+        {
+            "value": "berita3.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2024-05\/berita3.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 178197
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-05-23T08:15:43+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-05-23T08:15:48+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "bookish_image_data": [
+        {
+            "value": "{\"brightness\":0,\"contrast\":0,\"saturation\":0,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":0,\"green\":0,\"blue\":0,\"focal_point\":[181,146],\"zoom\":0}"
+        }
+    ]
+}

@@ -22,10 +22,11 @@
         "drupal/core-composer-scaffold": "^10",
         "cweagans/composer-patches": "^1.7",
         "drupal/core": "^10",
-        "drush/drush": "^12",
+        "drush/drush": "^12.4",
         "drupal/tome": "^1",
         "drupal-tome/tome_drush": "dev-master",
-        "webflo/drupal-finder": "^1.2"
+        "webflo/drupal-finder": "^1.2",
+        "drupal-tome/bookish": "1.0.x-dev"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

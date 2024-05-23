@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
+langcode: en
+name: 'Drush Site-Install'
+mail: admin@example.com
+slogan: 'A blogging profile for Tome users'
+page:
+  403: /403
+  404: /404
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
+uuid: 10859723-2c28-40a9-9da9-6ee9cc5e36c0

@@ -1,0 +1,104 @@
+{
+    "uuid": [
+        {
+            "value": "160f4533-38c2-4775-b53d-d1ad581c0859"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "08a19e0d-d512-48dd-ac83-9dd964cfb1d9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2024-05-23T06:39:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "325db809-b57b-492a-ad5b-c7f8362e1c35"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "325db809-b57b-492a-ad5b-c7f8362e1c35"
+        }
+    ],
+    "title": [
+        {
+            "value": "Belajar Naik Moose"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-05-23T06:38:34+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-05-23T06:40:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/belajar-naik-moose",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Belajar Naik MooseBelajar Naik MBelajar Naik MooseBelajar Naik MooseBelajar Naik MooseBelajar Naik MooseBelajar Naik MooseooseBelajar Naik MooseBelajar Naik Moose<\/p>",
+            "format": "rich_text",
+            "summary": ""
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "ai",
+            "title": "",
+            "width": 363,
+            "height": 293,
+            "target_type": "file",
+            "target_uuid": "0128f1d6-e084-4938-87ff-2e50a65ead2b"
+        }
+    ]
+}

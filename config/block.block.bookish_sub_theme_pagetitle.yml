@@ -1,0 +1,26 @@
+uuid: fc396a87-a2f0-494b-ac1d-5f98e658b79b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bookish_sub_theme
+_core:
+  default_config_hash: yf-KzrPCCC7FeCg3u5ISv0pND83kNCMJv7uf7SRq5GI
+id: bookish_sub_theme_pagetitle
+theme: bookish_sub_theme
+region: content
+weight: -2
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/user/*\r\n/contact/*\r\n/contact\r\n/contact-success"

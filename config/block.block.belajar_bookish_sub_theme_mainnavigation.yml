@@ -1,0 +1,27 @@
+uuid: 2adb342f-6273-4ffa-bc5c-414dd3ef7f4d
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - belajar_bookish_sub_theme
+_core:
+  default_config_hash: jAjT643Qiu-rNstpj9ES5Wp5jmWbKasH2CNCgkkBdHQ
+id: belajar_bookish_sub_theme_mainnavigation
+theme: belajar_bookish_sub_theme
+region: before
+weight: -1
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

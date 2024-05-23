@@ -1,0 +1,22 @@
+uuid: 47de1d93-d518-4261-ad32-bcea82dfd235
+langcode: en
+status: true
+dependencies:
+  theme:
+    - belajar_bookish_sub_theme
+_core:
+  default_config_hash: JSACcIzS9I_JqKPuks_GQEHEbxqCxlCfgY44qdomYpQ
+id: belajar_bookish_sub_theme_tabs
+theme: belajar_bookish_sub_theme
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

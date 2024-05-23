@@ -1,0 +1,22 @@
+uuid: 4d121c3e-aee4-4e14-9e37-145fc98b6cdf
+langcode: en
+status: true
+dependencies:
+  theme:
+    - bookish_sub_theme
+_core:
+  default_config_hash: JSACcIzS9I_JqKPuks_GQEHEbxqCxlCfgY44qdomYpQ
+id: bookish_sub_theme_tabs
+theme: bookish_sub_theme
+region: content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

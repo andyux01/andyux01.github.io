@@ -1,0 +1,28 @@
+uuid: 0dba7f61-e5c1-4fb9-93b3-6911163268de
+langcode: en
+status: true
+dependencies:
+  module:
+    - bookish_components
+    - system
+  theme:
+    - belajar_bookish_sub_theme
+_core:
+  default_config_hash: Km04Xi_TFSj5xkSjIAWnM3iJPpqu3H0soAOwdCStRPU
+id: belajar_bookish_sub_theme_bloglisting
+theme: belajar_bookish_sub_theme
+region: content
+weight: 0
+provider: null
+plugin: 'single_file_component_block:bk_blog_list'
+settings:
+  id: 'single_file_component_block:bk_blog_list'
+  label: 'Blog listing'
+  label_display: '0'
+  provider: bookish_components
+  component_context: {  }
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: /home

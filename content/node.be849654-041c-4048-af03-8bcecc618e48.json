@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "160f4533-38c2-4775-b53d-d1ad581c0859"
+            "value": "be849654-041c-4048-af03-8bcecc618e48"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "type": [
         {
-            "target_id": "page",
+            "target_id": "blog",
             "target_type": "node_type",
-            "target_uuid": "08a19e0d-d512-48dd-ac83-9dd964cfb1d9"
+            "target_uuid": "4ed00d32-a09e-40aa-b0ee-46ca384c0819"
         }
     ],
     "revision_timestamp": [
         {
-            "value": "2024-05-23T06:39:04+00:00",
+            "value": "2024-05-23T07:35:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -42,18 +42,18 @@
     ],
     "title": [
         {
-            "value": "Belajar Naik Moose"
+            "value": "Belajar Naik Rusa Drupal"
         }
     ],
     "created": [
         {
-            "value": "2024-05-23T06:38:34+00:00",
+            "value": "2024-05-23T07:34:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2024-05-23T07:33:51+00:00",
+            "value": "2024-05-23T07:35:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,26 +79,33 @@
     ],
     "path": [
         {
-            "alias": "\/belajar-naik-moose",
+            "alias": "",
+            "pid": null,
             "langcode": "en",
             "pathauto": 1
         }
     ],
     "body": [
         {
-            "value": "<p>Belajar Naik MooseBelajar Naik MBelajar Naik MooseBelajar Naik MooseBelajar Naik MooseBelajar Naik MooseBelajar Naik MooseooseBelajar Naik MooseBelajar Naik Moose<\/p>",
+            "value": "<p>Belajar Naik Rusa <strong><u>DrupalBelajar <\/u><\/strong>Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik&nbsp;<\/p><h3>Rusa&nbsp;<\/h3><p>DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa DrupalBelajar Naik Rusa Drupal<\/p><p>&nbsp;<\/p>",
             "format": "rich_text",
             "summary": ""
         }
     ],
     "field_image": [
         {
-            "alt": "ai",
+            "alt": "sas",
             "title": "",
-            "width": 363,
-            "height": 293,
+            "width": 327,
+            "height": 247,
             "target_type": "file",
-            "target_uuid": "0128f1d6-e084-4938-87ff-2e50a65ead2b"
+            "target_uuid": "93cdca78-9e2a-48ce-906d-0a13fa9b1bcb"
+        }
+    ],
+    "field_tags": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "67237a01-ce0a-466c-96cf-b9c5d2b20a2e"
         }
     ]
 }

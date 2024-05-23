@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "0128f1d6-e084-4938-87ff-2e50a65ead2b"
+            "value": "93cdca78-9e2a-48ce-906d-0a13fa9b1bcb"
         }
     ],
     "langcode": [
@@ -17,12 +17,12 @@
     ],
     "filename": [
         {
-            "value": "berita1.png"
+            "value": "Imagebanner.png"
         }
     ],
     "uri": [
         {
-            "value": "public:\/\/2024-05\/berita1.png"
+            "value": "public:\/\/2024-05\/Imagebanner.png"
         }
     ],
     "filemime": [
@@ -32,7 +32,7 @@
     ],
     "filesize": [
         {
-            "value": 207921
+            "value": 140904
         }
     ],
     "status": [
@@ -42,19 +42,19 @@
     ],
     "created": [
         {
-            "value": "2024-05-23T06:38:55+00:00",
+            "value": "2024-05-23T07:35:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2024-05-23T07:33:51+00:00",
+            "value": "2024-05-23T07:35:20+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "bookish_image_data": [
         {
-            "value": "{\"brightness\":-102,\"contrast\":-7,\"saturation\":11,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":0,\"green\":0,\"blue\":0,\"focal_point\":[196,71],\"zoom\":0}"
+            "value": "{\"brightness\":23,\"contrast\":-15,\"saturation\":0,\"blur\":0,\"grayscale\":0,\"hue\":0,\"red\":1,\"green\":12,\"blue\":15,\"focal_point\":[163,123],\"zoom\":0}"
         }
     ]
 }

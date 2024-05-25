@@ -1,5 +1,3 @@
-_core:
-  default_config_hash: hMryGZ72dYhcT4Nl47e3sngAa2Plucwxr4skUVAaaug
 links:
   -
     path: /
@@ -8,7 +6,9 @@ links:
   -
     path: /blog
     priority: '0.5'
-    changefreq: daily
   -
-    path: /search
+    path: /work
+    priority: '0.5'
+  -
+    path: /gallery
     priority: '0.5'

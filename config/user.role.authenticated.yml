@@ -1,9 +1,7 @@
-uuid: 24eda617-dfb1-4c8a-924c-244672cec041
+uuid: 872cc89f-cd16-44b1-9d70-a9629048b828
 langcode: en
 status: true
-dependencies:
-  module:
-    - system
+dependencies: {  }
 _core:
   default_config_hash: dJ0L2DNSj5q6XVZAGsuVDpJTh5UeYkIPwKrUOOpr8YI
 id: authenticated
@@ -12,3 +10,4 @@ weight: 1
 is_admin: false
 permissions:
   - 'access content'
+  - 'use text format full_html'

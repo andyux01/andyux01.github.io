@@ -1,14 +1,14 @@
-_core:
-  default_config_hash: RePADAH4yHzDAKh-gEsDxPFK9hQe32l4p4t8Cqryww8
-langcode: en
-uuid: 10859723-2c28-40a9-9da9-6ee9cc5e36c0
-name: 'Drush Site-Install Buku'
+uuid: a519920a-14ca-49c4-bb29-fd8cf92acae1
+name: 'Samuel Mortenson'
 mail: admin@example.com
-slogan: 'A blogging profile for Tome users'
+slogan: ''
 page:
   403: /403
   404: /404
   front: /home
 admin_compact_mode: false
 weight_select_max: 100
+langcode: en
 default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

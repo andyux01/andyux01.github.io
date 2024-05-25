@@ -1,4 +1,4 @@
-uuid: 674c3878-31e2-43e5-9c51-caec8e46117b
+uuid: e44ff22d-ddee-4f97-8843-81e32ea130f0
 langcode: en
 status: true
 dependencies:
@@ -6,10 +6,7 @@ dependencies:
     - field.storage.node.body
     - node.type.blog
   module:
-    - allowed_formats
     - text
-_core:
-  default_config_hash: aW5GqPmdmCFRf1QuHlRBIGbp32mCaylS8klyw5K1-o8
 id: node.blog.body
 field_name: body
 entity_type: node
@@ -23,6 +20,4 @@ default_value_callback: ''
 settings:
   display_summary: true
   required_summary: false
-  allowed_formats:
-    - rich_text
 field_type: text_with_summary

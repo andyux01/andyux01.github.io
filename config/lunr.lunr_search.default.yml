@@ -7,7 +7,7 @@ dependencies:
   module:
     - views
 _core:
-  default_config_hash: YwmcHb5PJTs9GPgYrWSBr3hiQpndcSn_14LOdf6sOsU
+  default_config_hash: e-jA9hEiTN3FxUGy8AQ1nppf2ypQ5nJF6KacEwh9ieU
 id: default
 label: Search
 path: /search

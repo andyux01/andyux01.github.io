@@ -1,4 +1,4 @@
-uuid: 1665e8e8-d44c-4314-bd43-90cdf3c5add0
+uuid: e3d2c32e-61ea-4e6b-8282-3a6bf0d9f52b
 langcode: en
 status: true
 dependencies:
@@ -6,14 +6,12 @@ dependencies:
     - field.storage.node.field_tags
     - node.type.blog
     - taxonomy.vocabulary.tags
-_core:
-  default_config_hash: hSrV6nKbfDDlghHuC4ogbyKVY8N_4NF24hpco0PI9ts
 id: node.blog.field_tags
 field_name: field_tags
 entity_type: node
 bundle: blog
 label: Tags
-description: 'Start typing then either select an existing tag with the arrow keys or type a new tag, and press enter.'
+description: ''
 required: false
 translatable: false
 default_value: {  }

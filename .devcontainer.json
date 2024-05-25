@@ -1,0 +1,6 @@
+{
+	"name": "Drupal",
+	"image": "mortenson/tome",
+	"forwardPorts": [8888, 8889],
+	"postStartCommand": "composer install && drush tome:install -y"
+}

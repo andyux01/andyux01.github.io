@@ -297,7 +297,7 @@ $config_directories = array();
  *   $settings['hash_salt'] = file_get_contents('/home/example/salt.txt');
  * @endcode
  */
-$settings['hash_salt'] = 'RssoyQh04JYzxxWAIWLjKmZJEh1tXGfzPyTQvoyMSmA9qDz4KDNOk-VC6AaKDeRwhC2hwG2MBQ';
+$settings['hash_salt'] = 'N3lXzIfX-lUDxV_jZhF4w-GGXLG7VZSbUebtSVbNKbrfJ1r7CFuvavtDe8MnxDZ7cW8Phwy3mQ';
 
 /**
  * Deployment identifier.
@@ -771,6 +771,8 @@ $settings['file_scan_ignore_directories'] = [
  */
 $settings['entity_update_batch_size'] = 50;
 
+$settings['tome_sync_encoder'] = 'yaml';
+
 /**
  * Load local development override configuration, if available.
  *
@@ -782,9 +784,16 @@ $settings['entity_update_batch_size'] = 50;
  * Keep this code block at the end of this file to take full effect.
  */
 #
-# if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
-#   include $app_root . '/' . $site_path . '/settings.local.php';
-# }
+if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
+  include $app_root . '/' . $site_path . '/settings.local.php';
+}
+$databases['default']['default'] = array (
+  'database' => 'sites/default/files/.ht.sqlite',
+  'prefix' => '',
+  'namespace' => 'Drupal\\Core\\Database\\Driver\\sqlite',
+  'driver' => 'sqlite',
+);
+$settings['config_sync_directory'] = '../config';
 $databases['default']['default'] = array (
   'database' => 'sites/default/files/.ht.sqlite',
   'prefix' => '',
@@ -792,23 +801,4 @@ $databases['default']['default'] = array (
   'driver' => 'sqlite',
 );
 
-$settings['config_sync_directory'] = '../config';
-
-/**
- * Instead of having a "local" settings.php, it may make sense for you to
- * always assume that web requests are local development and the CLI
- * (ex: drush tome:static) is "production". For example, this code will always
- * turn CSS/JS preprocessing off for web requests, which saves you from editing
- * the "Performance" page every time you work on your theme.
- */
-// if (PHP_SAPI !== 'cli') {
-//   $config['system.performance']['css']['preprocess'] = FALSE;
-//   $config['system.performance']['js']['preprocess'] = FALSE;
-// }
-$databases['default']['default'] = array (
-  'database' => 'sites/default/files/.ht.sqlite',
-  'prefix' => '',
-  'namespace' => 'Drupal\\sqlite\\Driver\\Database\\sqlite',
-  'driver' => 'sqlite',
-  'autoload' => 'core/modules/sqlite/src/Driver/Database/sqlite/',
-);
+$settings['tome_static_cache_exclude'] = ['/feed.xml', '/drupal-feed.xml'];

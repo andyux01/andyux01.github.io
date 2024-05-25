@@ -1,19 +1,10 @@
-uuid: 4ed00d32-a09e-40aa-b0ee-46ca384c0819
+uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
 langcode: en
 status: true
-dependencies:
-  module:
-    - menu_ui
-third_party_settings:
-  menu_ui:
-    available_menus:
-      - main
-    parent: 'main:'
-_core:
-  default_config_hash: OsdsnoOu6NkQLfBOsDG5s3ZVjd3_rWw4ozMcOVSK_-U
+dependencies: {  }
 name: Blog
 type: blog
-description: 'Tell the world how you really feel.'
+description: ''
 help: ''
 new_revision: true
 preview_mode: 1

@@ -1,0 +1,23 @@
+uuid:
+  - value: 2e91bb43-5d6c-41a8-8be9-f8aabc566fe3
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: 'foto Andy.png'
+uri:
+  - value: 'public://gallery/foto Andy.png'
+filemime:
+  - value: image/png
+filesize:
+  - value: 307405
+status:
+  - value: true
+created:
+  - value: '2024-05-25T10:16:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2024-05-25T10:17:03+00:00'
+    format: 'Y-m-d\TH:i:sP'

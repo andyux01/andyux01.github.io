@@ -6,7 +6,8 @@
       {% endtrans %}
     </p>
     <div class="mc-about__image">
-      {{ drupal_image('public://2020-02/header_image.jpg', 'about_image', responsive=true) }}
+      {{ drupal_image('public://gallery/foto-Andy.jpg', 'about_image', responsive=true) }}
+
     </div>
   </div>
 </template>

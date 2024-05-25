@@ -14,7 +14,7 @@
     {% else %}
       <a href="/" class="mc-header__name">
     {% endif %}
-        Samuel<br />Mortenson
+        Andy<br />Yulianto
     {% if is_front %}
       </h1>
     {% else %}

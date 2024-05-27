@@ -1,0 +1,49 @@
+uuid:
+  - value: bd783911-a086-4b35-9f52-26d7d35cdf66
+langcode:
+  - value: en
+type:
+  - target_id: blog
+    target_type: node_type
+    target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
+revision_timestamp:
+  - value: '2024-05-27T21:20:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Tolong mau git push'
+created:
+  - value: '2024-05-27T21:20:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2024-05-27T21:20:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+    pathauto: 1
+body:
+  - value: |
+      <p>mau gitp ush di github</p>
+    format: full_html
+    summary: ''
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 6fa8851a-114e-478c-9cdf-63dc347958b8

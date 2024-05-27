@@ -7,7 +7,7 @@
       <li><a href="/gallery">Gallery</a></li>
       <li><a href="mailto:samuel@mortenson.coffee">Contact</a></li>
     </ul>
-    <div class="mc-footer__copyright">©{{ 'now'|date('Y') }} Samuel Mortenson</div>
+    <div class="mc-footer__copyright">©{{ 'now'|date('Y') }} Andy Yulianto</div>
     <a class="mc-footer__rss" href="/feed.xml">
       <span class="visually-hidden">RSS Feed</span>
       <img alt="RSS feed icon" src="/core/misc/feed.svg" />

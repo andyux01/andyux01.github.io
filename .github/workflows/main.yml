@@ -16,11 +16,11 @@ jobs:
     #     curl -sL https://deb.nodesource.com/setup_10.x | bash -
     #     apt-get install -y nodejs
     #     nodejs -v
-    - name: Copy composer page
+    - name: lihat utama composer page
       run: ls
-    - name: Copy composer page
+    - name: lihat composer page
       run: ls ../
-    - name: Copy composer page
+    - name: copy composer page
       run: cp /__w/andyux01.github.io/composer.json /__w/andyux01.github.io/andyux01.github.io
     - name: Install dependencies
       run: composer install

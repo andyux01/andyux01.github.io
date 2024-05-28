@@ -1,0 +1,23 @@
+uuid:
+  - value: 05e47790-035f-465f-9f41-7ea9081380e9
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: ss-burger-site.JPG
+uri:
+  - value: 'public://inline-images/ss-burger-site.JPG'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 67619
+status:
+  - value: true
+created:
+  - value: '2024-05-28T00:17:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2024-05-28T00:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'

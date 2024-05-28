@@ -17,11 +17,11 @@ jobs:
     #     apt-get install -y nodejs
     #     nodejs -v
     - name: lihat utama composer page
-      run: ls
+      run: ls ../../
     - name: lihat composer page
       run: ls ../
     - name: copy composer page
-      run: cp /__w/andyux01.github.io/composer.json /__w/andyux01.github.io/andyux01.github.io
+      run: cp ../andyux01.github.io/composer.json andyux01.github.io
     - name: Install dependencies
       run: composer install
     - name: Install Tome

@@ -1,4 +1,4 @@
-name: tome-bookish
+name: tome-andyux01
 type: drupal
 docroot: web
 php_version: "8.3"
@@ -122,8 +122,8 @@ corepack_enable: false
 # See https://github.com/Masterminds/semver#checking-version-constraints for
 # supported constraint formats
 
-# working_dir:
-#   web: /var/www/html
+working_dir:
+   web: /var/www/html
 #   db: /home
 # would set the default working directory for the web and db services.
 # These values specify the destination directory for ddev ssh and the

@@ -16,6 +16,8 @@ jobs:
     #     curl -sL https://deb.nodesource.com/setup_10.x | bash -
     #     apt-get install -y nodejs
     #     nodejs -v
+    - name: Copy composer page
+      run: cp composer.json ./html/404.html /__w/andyux01.github.io/andyux01.github.io
     - name: Install dependencies
       run: composer install
     - name: Install Tome

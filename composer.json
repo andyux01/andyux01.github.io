@@ -49,7 +49,8 @@
         "drupal/pathauto": "^1.6",
         "drupal/redirect": "^1.5",
         "drupal/lunr": "1.x-dev",
-        "drupal/simple_sitemap": "^4"
+        "drupal/simple_sitemap": "^4",
+        "drupal/paragraphs": "^1.17"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

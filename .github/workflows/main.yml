@@ -9,13 +9,13 @@ jobs:
     container:
       image: gitpod/workspace-full
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Node
-      run: |
-        apt-get --allow-releaseinfo-change update
-        curl -sL https://deb.nodesource.com/setup_10.x | bash -
-        apt-get install -y nodejs
-        nodejs -v
+    # - uses: actions/checkout@v2
+    # - name: Install Node
+    #   run: |
+    #     apt-get --allow-releaseinfo-change update
+    #     curl -sL https://deb.nodesource.com/setup_10.x | bash -
+    #     apt-get install -y nodejs
+    #     nodejs -v
     - name: Install dependencies
       run: composer install
     - name: Install Tome

@@ -16,12 +16,12 @@ jobs:
     #     curl -sL https://deb.nodesource.com/setup_10.x | bash -
     #     apt-get install -y nodejs
     #     nodejs -v
-    - name: copy composer page1
-      run: cp composer.json andyux01.github.io
-    - name: copy composer page
-      run: cp ./andyux01.github.io/composer.json andyux01.github.io
-    - name: Install dependencies
-      run: composer install
+    # - name: copy composer page1
+    #   run: cp composer.json andyux01.github.io
+    # - name: copy composer page
+    #   run: cp ./andyux01.github.io/composer.json andyux01.github.io
+    # - name: Install dependencies
+    #   run: composer install
     - name: Install Tome
       run: ./vendor/bin/drush tome:install -y
     # Uncomment these lines if needed:

@@ -17,11 +17,15 @@ jobs:
     #     apt-get install -y nodejs
     #     nodejs -v
     - name: Copy composer page
-      run: cp composer.json ./html/404.html /__w/andyux01.github.io/andyux01.github.io
+      run: ls
+    - name: Copy composer page
+      run: ls ../
+    - name: Copy composer page
+      run: cp /__w/andyux01.github.io/composer.json /__w/andyux01.github.io/andyux01.github.io
     - name: Install dependencies
       run: composer install
     - name: Install Tome
-      run: ./vendor/bin/drush tome:install -y
+      run: /__w/andyux01.github.io/vendor/bin/drush tome:install -y
     # Uncomment these lines if needed:
     - name: Generate sitemap
       run: ./vendor/bin/drush simple-sitemap-generate -y -l "andyux01.github.io"

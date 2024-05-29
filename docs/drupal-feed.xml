@@ -1,7 +1,12 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://andyux01.github.io/">
+<rss version="2.0" xml:base="http://andyux01.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Samuel Mortenson's personal blog</title>
+    <title>Samuel Mortenson&#039;s personal blog</title>
     <link>http://andyux01.github.io/</link>
     <description>The latest from my mind to yours.</description>
     <language>en</language>
@@ -9,3 +14,6 @@
     
   </channel>
 </rss>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
+

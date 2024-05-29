@@ -33,4 +33,13 @@
    <image:caption>Andy sedang aksi</image:caption>
   </image:image>
  </url>
+ <url>
+  <loc>http://andyux01.github.io/gallery/jalan-jalan-pagi</loc>
+  <lastmod>2024-05-29T01:50:26+00:00</lastmod>
+  <priority>0.5</priority>
+  <image:image>
+   <image:loc>http://andyux01.github.io/sites/default/files/gallery/20201231_065838.jpg</image:loc>
+   <image:caption>Andy sedang aksi</image:caption>
+  </image:image>
+ </url>
 </urlset>

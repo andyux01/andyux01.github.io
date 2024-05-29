@@ -1,0 +1,124 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--alpine-autocomplete.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/mortenson/templates/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="The homepage for Samuel Mortenson - you can call me Sam." />
+<link rel="canonical" href="http://andyux01.github.io/alpine-autocomplete" />
+<meta property="og:site_name" content="Andy Yulianto" />
+<meta property="og:url" content="http://andyux01.github.io/alpine-autocomplete" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@mortensonsam" />
+<meta name="twitter:creator" content="@mortensonsam" />
+<meta name="twitter:url" content="http://andyux01.github.io/alpine-autocomplete" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/mortenson/favicon.png" type="image/png" />
+
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://andyux01.github.io/feed.xml" />
+    <title>| Andy Yulianto</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_5QJqfWPDIyiGXtk73sfXjmSiQpxm36TSUJTLRvJBH6o.css?delta=0&amp;language=en&amp;theme=mortenson&amp;include=eJxljEsKgDAMBS9U7JFKrK9YaD40EfT26lZXAzMwfnmA80qOxDoD4iqZqUvyVnNVNhVILFxLUw3Mj8dJbAOFhnV5cIS-cSDwP-ygDfMGaa0tqA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_lUKW-3uS8T_2p_KsK827ADu4rT_SP0cpQwCCcPiLtkI.css?delta=1&amp;language=en&amp;theme=mortenson&amp;include=eJxljEsKgDAMBS9U7JFKrK9YaD40EfT26lZXAzMwfnmA80qOxDoD4iqZqUvyVnNVNhVILFxLUw3Mj8dJbAOFhnV5cIS-cSDwP-ygDfMGaa0tqA" />
+
+    <script src="//unpkg.com/alpinejs@3.10.2"></script>
+<script src="//unpkg.com/morphdom@2.6.1/dist/morphdom-umd.js"></script>
+<script src="/sites/default/files/js/js_vLjgE_97pAjJhe0jcWE54qplOBOcjSqlL0PhoJv-Czw.js?scope=header&amp;delta=2&amp;language=en&amp;theme=mortenson&amp;include=eJxljEsKgDAMBS9U7JFKrK9YaD40EfT26lZXAzMwfnmA80qOxDoD4iqZqUvyVnNVNhVILFxLUw3Mj8dJbAOFhnV5cIS-cSDwP-ygDfMGaa0tqA"></script>
+
+  </head>
+  <body>
+    <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   * page--alpine-autocomplete.html.twig
+   x page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/custom/mortenson/templates/page.html.twig' -->
+<!-- SFC debug -->
+<!-- Component file: C:\Users\Administrator\Downloads\Documents\tome-book\andyux01.github.io\web/modules/custom/mortenson_components/components/mc_header.sfc -->
+  <header class="mc-header container ">
+          <a href="/" class="mc-header__back">Back home</a>
+              <a href="/" class="mc-header__name">
+            Andy<br />Yulianto
+          </a>
+          </header>
+<!-- End debug --><main id="main-content">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+  <div>
+    <div data-drupal-messages-fallback class="hidden"></div><!-- SFC debug -->
+<!-- Component file: C:\Users\Administrator\Downloads\Documents\tome-book\andyux01.github.io\web/modules/contrib/sfc/modules/sfc_example/components/alpine/example_alpine_autocomplete.sfc -->
+  <div x-data='alpineAutocomplete($el, "/sfc/action/example_alpine_autocomplete/render?sfc_unique_id=example_alpine_autocomplete6656b1d633e20&amp;token=yh5Y_qLIWW3JBVyecZzxW3okgzvI2gaUlZLk_gQlt80")' class="aautocomplete">
+    <label for="aautocomplete">Cat Breed</label>
+    <input type="text" x-model="autocomplete" x-on:input.debounce="onInput()" x-on:focus="open = true" x-on:blur.debounce="open = false" id="aautocomplete" autocomplete="false" name="aautocomplete">
+    <div x-show="open" class="aautocomplete__results">
+              <div class="aautocomplete__empty">No results.</div>
+                </div>
+  </div>
+<!-- End debug -->
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/region.html.twig' -->
+
+
+</main>
+<!-- SFC debug -->
+<!-- Component file: C:\Users\Administrator\Downloads\Documents\tome-book\andyux01.github.io\web/modules/custom/mortenson_components/components/mc_footer.sfc -->
+  <footer class="mc-footer container">
+    <ul class="mc-footer__menu">
+      <li><a href="/search">Search</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/work">Work</a></li>
+      <li><a href="/gallery">Gallery</a></li>
+      <li><a href="mailto:andy@pesanweb.id">Contact</a></li>
+    </ul>
+    <div class="mc-footer__copyright">©2024 Andy Yulianto</div>
+    <a class="mc-footer__rss" href="/feed.xml">
+      <span class="visually-hidden">RSS Feed</span>
+      <img alt="RSS feed icon" src="/core/misc/feed.svg" />
+    </a>
+  </footer>
+<!-- End debug -->
+<!-- END OUTPUT from 'themes/custom/mortenson/templates/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    
+  </body>
+</html>
+
+<!-- END OUTPUT from 'themes/custom/mortenson/templates/html.html.twig' -->
+

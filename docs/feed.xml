@@ -1,23 +1,71 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://andyux01.github.io/">
+<rss version="2.0" xml:base="http://andyux01.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Samuel Mortenson's personal blog</title>
+    <title>Samuel Mortenson&#039;s personal blog</title>
     <link>http://andyux01.github.io/</link>
     <description>The latest from my mind to yours.</description>
     <language>en</language>
     
-    <item>
-  <title>Tolong mau git push</title>
-  <link>http://andyux01.github.io/blog/tolong-mau-git-push</link>
-  <description>mau gitp ush di github&amp;nbsp;Tolong mau git pushTolong mau git pushTolong mau git pushTolong mau git pushTolong mau git push
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<item>
+  <title>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Tolong mau git push
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</title>
+  <link>http://andyux01.github.io/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/tolong-mau-git-push_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+mau gitp ush di github&amp;nbsp;Tolong mau git pushTolong mau git pushTolong mau git pushTolong mau git pushTolong mau git push
 &amp;nbsp;
 
 &amp;nbsp;
+
+&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+
 </description>
   <pubDate>Mon, 27 May 24 21:20:07 +0000</pubDate>
-    <dc:creator>Samuel Mortenson</dc:creator>
-    <guid isPermaLink="false">bd783911-a086-4b35-9f52-26d7d35cdf66</guid>
+    <dc:creator>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Samuel Mortenson
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</dc:creator>
+    <guid isPermaLink="false">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+bd783911-a086-4b35-9f52-26d7d35cdf66
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</guid>
     </item>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+
 
   </channel>
 </rss>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
+

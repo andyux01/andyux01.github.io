@@ -1,0 +1,56 @@
+uuid:
+  - value: 562da94c-189c-43f7-bc6a-7a1c06cbd26d
+langcode:
+  - value: en
+type:
+  - target_id: gallery_item
+    target_type: node_type
+    target_uuid: 5c22f1d1-b381-4548-847a-1dfe83d18e27
+revision_timestamp:
+  - value: '2024-05-29T01:50:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Jalan-jalan Pagi'
+created:
+  - value: '2024-05-29T01:46:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2024-05-29T01:50:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+    pathauto: 1
+body:
+  - value: |
+      <p>Suasana ketika jalan-jalan pagi</p>
+    format: full_html
+    summary: ''
+field_image:
+  - alt: 'Andy sedang aksi'
+    title: ''
+    width: 2048
+    height: 1152
+    target_type: file
+    target_uuid: 63877e86-434c-4548-b9e7-f3dfafbcdbf2
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: c3d8033f-1929-4d25-aa65-fadfc6a88bdb

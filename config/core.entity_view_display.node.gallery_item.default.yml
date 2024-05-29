@@ -6,6 +6,7 @@ dependencies:
     - field.field.node.gallery_item.body
     - field.field.node.gallery_item.field_image
     - field.field.node.gallery_item.field_tags
+    - image.style.gallery_full
     - node.type.gallery_item
   module:
     - image
@@ -17,32 +18,34 @@ bundle: gallery_item
 mode: default
 content:
   body:
-    label: hidden
     type: text_default
-    weight: 101
+    label: hidden
     settings: {  }
     third_party_settings: {  }
+    weight: 101
     region: content
   field_image:
-    weight: 103
+    type: image
     label: above
     settings:
-      image_style: ''
-      image_link: ''
+      image_link: content
+      image_style: gallery_full
+      image_loading:
+        attribute: lazy
     third_party_settings: {  }
-    type: image
+    weight: 103
     region: content
   field_tags:
-    weight: 102
+    type: entity_reference_label
     label: above
     settings:
       link: true
     third_party_settings: {  }
-    type: entity_reference_label
+    weight: 102
     region: content
   links:
-    weight: 100
     settings: {  }
     third_party_settings: {  }
+    weight: 100
     region: content
 hidden: {  }

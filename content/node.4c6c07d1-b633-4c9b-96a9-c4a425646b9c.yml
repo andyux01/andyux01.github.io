@@ -1,0 +1,76 @@
+uuid:
+  - value: 4c6c07d1-b633-4c9b-96a9-c4a425646b9c
+langcode:
+  - value: en
+type:
+  - target_id: work
+    target_type: node_type
+    target_uuid: a69e203f-098e-4d71-8a80-bb6f16209e20
+revision_timestamp:
+  - value: '2024-06-05T23:29:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Tugas remidi'
+created:
+  - value: '2024-06-05T23:17:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2024-06-05T23:29:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: /work/tugas-remidi
+    langcode: en
+    pathauto: 1
+body:
+  - value: |+
+      <script>window.__appCDN="https://cdn.webcomponents.psu.edu/cdn/";</script><script src="https://cdn.webcomponents.psu.edu/cdn/build.js"></script>
+      <hax-logo>
+        <span slot="pre">The</span>
+        <span slot="post">of complacency</span>
+      </hax-logo>
+
+      <meme-maker bottom-text="things" image-url="https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg" top-text="stuff"></meme-maker>
+      <type-writer delay="100" text="This is how it goes when we type everything out like so" speed="100">
+      </type-writer>
+
+
+      <event-badge accent-color="red" title="IST 256" image="https://cdn.discordapp.com/attachments/898236833853481032/1088241666730754108/unnamed.gif" name="BTO PRO" position="EdTechJoker" logo="https://img.itch.zone/aW1hZ2UvNjUxMS8zMzA5Ni5wbmc=/original/2RYWer.png" organization="HaxTheWeb" tvcolor="blue" knobcolor="purple">
+      </event-badge>
+
+      <a11y-media-player accent-color="grey" disable-search hide-timestamps crossorigin="anonymous" sticky-corner="top-left">
+        <video crossorigin="anonymous" controls>
+              <source src="//iandevlin.github.io/mdn/video-player-with-captions/video/sintel-short.mp4" type="video/mp4">
+              <source src="//iandevlin.github.io/mdn/video-player-with-captions/sintel-short.webm" type="video/webm">
+              <track label="English" kind="subtitles" srclang="en" src="https://webcomponents.psu.edu/elements/a11y-media-player/demo/samples/sintel-en.vtt" default>
+              <track label="Deutsch" kind="subtitles" srclang="de" src="https://webcomponents.psu.edu/elements/a11y-media-player/demo/samples/sintel-de.vtt">
+              <track label="Español" kind="subtitles" srclang="es" src="https://webcomponents.psu.edu/elements/a11y-media-player/demo/samples/sintel-es.vtt">
+            </video>
+      </a11y-media-player>
+
+      <simple-cta title="Click to learn more" link="https://haxtheweb.org/">
+      </simple-cta>
+
+
+    format: full_html
+    summary: ''
+field_image: {  }
+field_subtitle:
+  - value: 'kelas XI'
+field_tags: {  }

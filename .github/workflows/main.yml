@@ -7,21 +7,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: gitpod/workspace-full
+      image: mortenson/tome
     steps:
-    # - uses: actions/checkout@v2
-    # - name: Install Node
-    #   run: |
-    #     apt-get --allow-releaseinfo-change update
-    #     curl -sL https://deb.nodesource.com/setup_10.x | bash -
-    #     apt-get install -y nodejs
-    #     nodejs -v
+    - uses: actions/checkout@v2
+    - name: Install Node
+      run: |
+        apt-get --allow-releaseinfo-change update
+        curl -sL https://deb.nodesource.com/setup_10.x | bash -
+        apt-get install -y nodejs
+        nodejs -v
     # - name: copy composer page1
     #   run: cp composer.json andyux01.github.io
     # - name: copy composer page
     #   run: cp ./andyux01.github.io/composer.json andyux01.github.io
-    # - name: Install dependencies
-    #   run: composer install
+    - name: Install dependencies
+      run: composer install
     - name: Install Tome
       run: ./vendor/bin/drush tome:install -y
     # Uncomment these lines if needed:

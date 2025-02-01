@@ -1,4 +1,4 @@
-uuid: 249e4d45-2028-4cff-97d0-f0f866bdce9a
+uuid: fc0c0000-6549-4eb5-92bb-774728dcf6c9
 langcode: en
 status: true
 dependencies: {  }
@@ -8,27 +8,5 @@ id: node
 label: Content
 tags:
   title: '[node:title] | [site:name]'
-  canonical_url: '[node:url]'
   description: '[node:summary]'
-  article_modified_time: '[node:changed:custom:c]'
-  article_published_time: '[node:created:custom:c]'
-  og_image_width: '[node:field_image:social:width]'
-  og_image: '[node:field_image:social:url]'
-  og_image_height: '[node:field_image:social:height]'
-  og_image_alt: '[node:field_image:alt]'
-  og_url: '[node:url:absolute]'
-  og_description: '[node:summary]'
-  article_tag: '[node:field_tags]'
-  og_site_name: '[site:name]'
-  og_image_type: '[node:field_image:social:mimetype]'
-  og_title: '[node:title]'
-  twitter_cards_creator: '@mortensonsam'
-  twitter_cards_image: '[node:field_image:social:url]'
-  twitter_cards_image_width: '[node:field_image:social:width]'
-  twitter_cards_site: '@mortensonsam'
-  twitter_cards_page_url: '[node:url:absolute]'
-  twitter_cards_description: '[node:description]'
-  twitter_cards_image_alt: '[node:field_image:alt]'
-  twitter_cards_type: summary_large_image
-  twitter_cards_image_height: '[node:field_image:social:height]'
-  twitter_cards_title: '[node:title]'
+  canonical_url: '[node:url]'

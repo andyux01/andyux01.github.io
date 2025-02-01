@@ -1,0 +1,23 @@
+uuid:
+  - value: c9b34766-8186-47ba-a8f2-69cbe4ae2070
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: header.jpg
+uri:
+  - value: 'public://work/header.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 89718
+status:
+  - value: true
+created:
+  - value: '2024-06-06T02:11:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2024-06-06T02:11:22+00:00'
+    format: 'Y-m-d\TH:i:sP'

@@ -60,13 +60,11 @@ settings:
   plugins:
     stylescombo:
       styles: span.monospace|Monospace
-    language:
-      language_list: un
 image_upload:
   status: true
   scheme: public
   directory: inline-images
-  max_size: ''
+  max_size: null
   max_dimensions:
     width: null
     height: null

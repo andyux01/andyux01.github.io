@@ -1,0 +1,72 @@
+uuid:
+  - value: a312e9d2-7786-4a80-8f33-21ef24b51fad
+langcode:
+  - value: en
+type:
+  - target_id: blog
+    target_type: node_type
+    target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
+revision_timestamp:
+  - value: '2025-02-01T10:09:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Keuntungan Memiliki Properti'
+created:
+  - value: '2025-02-01T10:04:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-01T10:09:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: |
+      <h2 data-sourcepos="3:1-3:50"><strong>Rumah Idaman: Simbol Kenyamanan dan Keberkahan</strong></h2>
+
+      <p data-sourcepos="5:1-5:384">Rumah idaman adalah impian setiap orang. Lebih dari sekadar tempat berlindung, rumah adalah simbol kenyamanan, kehangatan keluarga, dan tempat kita membangun kenangan indah. Dalam konteks bisnis properti, rumah idaman memiliki nilai simbolis yang lebih dalam, terutama dalam <strong>skema bisnis</strong> properti syariah. Rumah bukan hanya sekadar aset, tetapi juga investasi yang membawa berkah.</p>
+
+      <h2 data-sourcepos="7:1-7:53"><strong>Keuntungan Bersama: Simbol Keadilan dan Kerjasama</strong></h2>
+
+      <p data-sourcepos="9:1-9:342">Dalam bisnis properti syariah, keuntungan tidak hanya diukur dari materi, tetapi juga dari keberkahan dan keadilan. Penjual dan pembeli sama-sama diuntungkan dalam transaksi yang transparan dan saling menguntungkan. Simbolisnya, hal ini mencerminkan nilai-nilai kerjasama, saling percaya, dan tanggung jawab yang dijunjung tinggi dalam Islam.</p>
+      <img alt="pengelolaan resiko bisnis" data-align="center" data-entity-type="file" data-entity-uuid="c5a90b65-dbdb-4f26-a6d3-62da2e6c46f8" src="/sites/default/files/inline-images/risk.jpg" />
+      <h2 data-sourcepos="11:1-11:64"><strong>Skema Bisnis Properti Syariah: Simbol Kepatuhan dan Kemajuan</strong></h2>
+
+      <p data-sourcepos="13:1-13:412"><strong>Skema bisnis</strong> properti syariah menawarkan solusi bagi mereka yang ingin memiliki rumah idaman dengan cara yang sesuai dengan prinsip-prinsip agama Islam. Transaksi yang bebas riba, akad yang jelas, dan lingkungan yang islami menjadi daya tarik utama. Secara simbolis, <strong>skema bisnis</strong> ini menunjukkan bahwa kemajuan dan keberkahan dapat diraih melalui cara-cara yang benar dan sesuai dengan nilai-nilai agama.</p>
+
+      <h2 data-sourcepos="15:1-15:57"><strong>Rumah Idaman yang Berkah: Investasi Dunia dan Akhirat</strong></h2>
+
+      <p data-sourcepos="17:1-17:422">Memiliki rumah idaman bukan hanya tentang memiliki tempat tinggal yang nyaman, tetapi juga tentang investasi yang membawa berkah di dunia dan akhirat. Dalam properti syariah, setiap transaksi didasari oleh niat yang baik dan tujuan yang mulia. Hal ini memberikan nilai tambah pada rumah idaman kita, menjadikannya bukan hanya sekadar aset, tetapi juga investasi yang membawa kebaikan dan keberkahan bagi kita dan keluarga.</p>
+
+      <h2 data-sourcepos="19:1-19:67"><strong>Kesimpulan: Rumah Idaman sebagai Simbol Harapan dan Kebahagiaan</strong></h2>
+
+      <p data-sourcepos="21:1-21:426">Rumah idaman adalah simbol harapan dan kebahagiaan. Dalam bisnis properti syariah, simbol ini semakin diperkuat dengan nilai-nilai agama, keadilan, dan keberkahan. Memiliki rumah idaman dengan cara yang benar adalah impian yang dapat diwujudkan. Dengan memilih <strong>skema bisnis</strong> properti syariah, kita tidak hanya mendapatkan rumah yang nyaman, tetapi juga investasi yang membawa kebaikan dan keberkahan bagi kita dan keluarga.</p>
+    format: full_html
+    summary: ''
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 5b5950db-b429-4375-b12c-b7f826877279
+  - target_type: taxonomy_term
+    target_uuid: 43052f2d-49ee-49a2-882d-6253d416bb0a
+  - target_type: taxonomy_term
+    target_uuid: cf1442fb-0e65-40bc-a1fa-5ae192a6684c
+  - target_type: taxonomy_term
+    target_uuid: 373a8080-217d-44be-bc5f-8fcb0c31176c

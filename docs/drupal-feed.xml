@@ -4,10 +4,10 @@
 <!-- THEME HOOK: 'views_view_rss' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="http://andyux01.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xml:base="https://andy.propertysyariah.biz.id/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Samuel Mortenson&#039;s personal blog</title>
-    <link>http://andyux01.github.io/</link>
+    <link>https://andy.propertysyariah.biz.id/</link>
     <description>The latest from my mind to yours.</description>
     <language>en</language>
     

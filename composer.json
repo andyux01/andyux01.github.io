@@ -42,7 +42,6 @@
         "drupal/sfc": "dev-1.x",
         "drupal/twig_tweak": "^3",
         "drupal/admin_toolbar": "^3",
-        "drupal/metatag": "^2.1",
         "scrivo/highlight.php": "^9.17",
         "ckeditor/codetag": "1.0.0",
         "drupal/codetag": "dev-1.x",
@@ -52,7 +51,8 @@
         "drupal/simple_sitemap": "^4",
         "drupal/paragraphs": "^1.17",
         "drupal/hax": "^9.1",
-        "drupal/jsonapi_include": "^1.7"
+        "drupal/jsonapi_include": "^1.7",
+        "drupal/metatag": "^2.1"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

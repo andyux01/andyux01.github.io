@@ -61,58 +61,6 @@ a312e9d2-7786-4a80-8f33-21ef24b51fad
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
 
 
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-<item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Tolong mau git push
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andy.propertysyariah.biz.id/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/tolong-mau-git-push_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-mau gitp ush di github&amp;nbsp;Tolong mau git pushTolong mau git pushTolong mau git pushTolong mau git pushTolong mau git push
-&amp;nbsp;
-
-&amp;nbsp;
-
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
-  <pubDate>Mon, 27 May 24 21:20:07 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-bd783911-a086-4b35-9f52-26d7d35cdf66
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
-    </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
-
   </channel>
 </rss>
 

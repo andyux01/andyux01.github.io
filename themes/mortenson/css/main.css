@@ -10,8 +10,8 @@ body {
   --font-weight-semibold: 600;
   --font-weight-bold: 700;
   --font-weight-black: 800;
-  --accent-color-1: #c5c2f7;
-  --accent-color-2: #AADFFF;
+  --accent-color-1: #ada9eb;
+  --accent-color-2: #6c99b4;
   --background-color: white;
   --background-color-dark: #1E1E1E;
   --spacer-1: 10px;
@@ -88,7 +88,7 @@ div[data-drupal-messages] {
 body.dark {
   --font-color: var(--font-color-light);
   --background-color: var(--background-color-dark);
-  --accent-color-2: #527286;
+  --accent-color-2: #76c6f8;
   --font-color-link: var(--font-color-link-light);
   --font-color-link-hover: var(--font-color-link-light-hover);
 }

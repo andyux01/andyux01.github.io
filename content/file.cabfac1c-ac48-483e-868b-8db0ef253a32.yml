@@ -1,0 +1,23 @@
+uuid:
+  - value: cabfac1c-ac48-483e-868b-8db0ef253a32
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: legal.png
+uri:
+  - value: 'public://inline-images/legal.png'
+filemime:
+  - value: image/png
+filesize:
+  - value: 403687
+status:
+  - value: true
+created:
+  - value: '2025-02-03T23:18:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-03T23:18:52+00:00'
+    format: 'Y-m-d\TH:i:sP'

@@ -19,12 +19,8 @@ created:
   - value: '2020-01-14T17:07:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2025-02-01T09:16:12+00:00'
+  - value: '2025-02-02T12:51:42+00:00'
     format: 'Y-m-d\TH:i:sP'
 roles: {  }
 default_langcode:
   - value: true
-path:
-  - alias: ''
-    pid: null
-    langcode: en

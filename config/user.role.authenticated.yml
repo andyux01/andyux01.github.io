@@ -7,6 +7,7 @@ dependencies:
   module:
     - filter
     - media
+    - sfc_dev
     - system
 _core:
   default_config_hash: dJ0L2DNSj5q6XVZAGsuVDpJTh5UeYkIPwKrUOOpr8YI
@@ -16,5 +17,6 @@ weight: 1
 is_admin: false
 permissions:
   - 'access content'
+  - 'use sfc dev'
   - 'use text format full_html'
   - 'view media'

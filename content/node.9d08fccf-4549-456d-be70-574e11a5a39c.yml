@@ -1,0 +1,117 @@
+uuid:
+  - value: 9d08fccf-4549-456d-be70-574e11a5a39c
+langcode:
+  - value: en
+type:
+  - target_id: blog
+    target_type: node_type
+    target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
+revision_timestamp:
+  - value: '2025-02-03T23:18:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Menakar Nilai Jual Beli Bisnis'
+created:
+  - value: '2025-02-03T23:11:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-03T23:18:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: |
+      <p>Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.</p>
+
+      <h2>Keberkahan dalam Transaksi</h2>
+
+      <p>Keberkahan dalam transaksi properti syariah berarti bahwa transaksi tersebut dilakukan dengan cara yang sesuai dengan prinsip-prinsip agama Islam. Tidak ada unsur riba (bunga), gharar (ketidakpastian), atau penipuan dalam transaksi tersebut. Dengan demikian, baik penjual maupun pembeli merasa tenang dan nyaman karena transaksi yang dilakukan sesuai dengan ajaran agama.</p>
+
+      <p>Islam sangat menganjurkan umatnya untuk saling tolong-menolong dan bekerjasama dalam kebaikan. Kerjasama ini tidak hanya terbatas pada urusan agama, tetapi juga dalam urusan duniawi, seperti bisnis, sosial, dan kemasyarakatan.</p>
+
+      <p>Dalam Al-Qur'an, Allah SWT berfirman:</p>
+
+      <p>"...dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan janganlah kamu tolong-menolong dalam (mengerjakan) dosa dan pelanggaran..." (QS. Al-Maidah: 2) &nbsp;&nbsp;</p>
+
+      <p>Rasulullah SAW juga bersabda: &nbsp;&nbsp;</p>
+
+      <p>"Seorang muslim adalah saudara bagi muslim yang lain, dia tidak menzaliminya dan tidak membiarkannya (dizalimi). Barangsiapa yang membantu saudaranya, maka Allah akan membantunya. Barangsiapa yang menghilangkan kesulitan seorang muslim, maka Allah akan menghilangkan kesulitannya pada hari kiamat." (HR. Bukhari dan Muslim)</p>
+
+      <p>Keadilan dalam Berbisnis</p>
+
+      <p>Keadilan dalam bisnis properti syariah berarti bahwa semua pihak yang terlibat dalam transaksi mendapatkan haknya secara adil. Tidak ada pihak yang dirugikan atau dieksploitasi. Penjual dan pembeli sama-samaUntung dalam transaksi yang transparan dan saling menguntungkan.</p>
+
+      <p>Islam sangat menganjurkan umatnya untuk saling tolong-menolong dan bekerjasama dalam kebaikan. Kerjasama ini tidak hanya terbatas pada urusan agama, tetapi juga dalam urusan duniawi, seperti bisnis, sosial, dan kemasyarakatan.</p>
+
+      <p>Dalam Al-Qur'an, Allah SWT berfirman:</p>
+
+      <p>"...dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan janganlah kamu tolong-menolong dalam (mengerjakan) dosa dan pelanggaran..." (QS. Al-Maidah: 2) &nbsp;&nbsp;</p>
+
+      <p>Rasulullah SAW juga bersabda: &nbsp;&nbsp;</p>
+
+      <p>"Seorang muslim adalah saudara bagi muslim yang lain, dia tidak menzaliminya dan tidak membiarkannya (dizalimi). Barangsiapa yang membantu saudaranya, maka Allah akan membantunya. Barangsiapa yang menghilangkan kesulitan seorang muslim, maka Allah akan menghilangkan kesulitannya pada hari kiamat." (HR. Bukhari dan Muslim)</p>
+
+      <h2><br />
+      Keuntungan Bersama dalam Kerjasama (Ta'awun)</h2>
+
+      <p><br />
+      Dalam properti syariah, keuntungan tidak hanya menjadi milik satu pihak, tetapi juga menjadi keuntungan bersama. Penjual mendapatkan keuntungan dari penjualan properti, sementara pembeli mendapatkan keuntungan karena memiliki rumah idaman yang sesuai dengan prinsip-prinsip syariah.</p>
+
+      <p>Contoh</p>
+
+      <p>Seorang developer syariah membangun perumahan dengan konsep yang islami. Perumahan tersebut dilengkapi dengan fasilitas masjid, taman bermain, dan lingkungan yang aman dan nyaman. Developer menjual rumah-rumah tersebut dengan harga yang wajar dan transparan. Pembeli yang membeli rumah di perumahan tersebut tidak hanya mendapatkan tempat tinggal yang nyaman, tetapi juga lingkungan yang islami danInvestasi yangBerkah.</p>
+
+      <p>Setiap muslim memiliki tanggung jawab atas apa yang telah diamanahkan kepadanya. Tanggung jawab ini tidak hanya kepada Allah SWT, tetapi juga kepada sesama manusia dan lingkungan sekitar.</p>
+
+      <p>Rasulullah SAW bersabda:</p>
+
+      <p>"Setiap kamu adalah pemimpin dan setiap kamu akan dimintai pertanggungjawaban atas kepemimpinannya." (HR. Bukhari dan Muslim) &nbsp;&nbsp;</p>
+
+      <h2><br />
+      Saling Percaya (Amanah)</h2>
+
+      <p>Saling percaya adalah salah satu nilai penting dalam Islam. Setiap muslim dituntut untuk memiliki sifat amanah, yaitu jujur, dapat dipercaya, dan bertanggung jawab. Amanah ini harus dijaga dalam segala aspek kehidupan, baik dalam perkataan maupun perbuatan.</p>
+
+      <p>Rasulullah SAW bersabda:</p>
+
+      <p>"Tidaklah (sempurna) iman seseorang itu, kecuali jika ia amanah. Dan tidaklah (sempurna) agama seseorang itu, kecuali jika ia jujur." (HR. Ahmad)</p>
+      <img alt="pengelolaan legal dan kepercayaan" data-align="center" data-caption="keuntungan tidak hanya diukur dari materi, tetapi juga dari keberkahan dan keadilan,&amp;nbsp;konsep nilai-nilai kerjasama, saling percaya, dan tanggung jawab yang dijunjung tinggi dalam Islam" data-entity-type="file" data-entity-uuid="cabfac1c-ac48-483e-868b-8db0ef253a32" src="/sites/default/files/inline-images/legal.png" />
+      <h2>Tanggung Jawab (Mas'uliyyah)</h2>
+
+      <p>Implementasi dalam Kehidupan Sehari-hari</p>
+
+      <p>Nilai-nilai kerjasama, saling percaya, dan tanggung jawab ini harus diimplementasikan dalam kehidupan sehari-hari, baik dalam keluarga, masyarakat, maupun dalam dunia bisnis. Dengan mengamalkan nilai-nilai ini, tercipta kehidupan yang harmonis, damai, dan sejahtera.</p>
+
+      <p>Contoh dalam Bisnis</p>
+
+      <p>Dalam bisnis, kerjasama dapat diwujudkan dengan membangun tim yang solid dan saling mendukung. Saling percaya dapat diwujudkan dengan bersikap jujur dan transparan dalam setiap transaksi. Tanggung jawab dapat diwujudkan dengan memberikan pelayanan yang terbaik kepada pelanggan dan menjaga kualitas produk atau jasa yang ditawarkan.</p>
+
+      <p><br />
+      Dalam bisnis properti syariah, keuntungan tidak hanya diukur dari materi, tetapi juga dari keberkahan dan keadilan. Penjual dan pembeli sama-sama diuntungkan dalam transaksi yang transparan dan saling menguntungkan. Hal ini sesuai dengan nilai-nilai Islam yang menjunjung tinggi keadilan, kejujuran, dan keberkahan dalam setiap aspek kehidupan, termasuk dalam berbisnis properti.<br />
+      Nilai-nilai kerjasama, saling percaya, dan tanggung jawab adalah nilai-nilai luhur yang sangat dijunjung tinggi dalam Islam. Dengan mengamalkan nilai-nilai ini, setiap muslim dapat menjadi individu yang berkualitas dan berkontribusi positif bagi masyarakat dan lingkungannya.</p>
+    format: full_html
+    summary: ''
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 5b5950db-b429-4375-b12c-b7f826877279
+  - target_type: taxonomy_term
+    target_uuid: 0f302e00-6d7c-4310-874e-43baf013727b

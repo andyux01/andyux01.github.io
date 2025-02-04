@@ -7,7 +7,7 @@ type:
     target_type: node_type
     target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
 revision_timestamp:
-  - value: '2025-02-01T10:09:29+00:00'
+  - value: '2025-02-04T15:14:43+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   - target_type: user
@@ -24,7 +24,7 @@ created:
   - value: '2025-02-01T10:04:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2025-02-01T10:09:29+00:00'
+  - value: '2025-02-04T15:14:43+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   - value: true
@@ -35,11 +35,12 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: ''
-    pid: null
+  - alias: /blog/keuntungan-memiliki-properti
     langcode: en
 body:
   - value: |
+      <p data-sourcepos="3:1-3:50">Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.</p>
+
       <h2 data-sourcepos="3:1-3:50"><strong>Rumah Idaman: Simbol Kenyamanan dan Keberkahan</strong></h2>
 
       <p data-sourcepos="5:1-5:384">Rumah idaman adalah impian setiap orang. Lebih dari sekadar tempat berlindung, rumah adalah simbol kenyamanan, kehangatan keluarga, dan tempat kita membangun kenangan indah. Dalam konteks bisnis properti, rumah idaman memiliki nilai simbolis yang lebih dalam, terutama dalam <strong>skema bisnis</strong> properti syariah. Rumah bukan hanya sekadar aset, tetapi juga investasi yang membawa berkah.</p>

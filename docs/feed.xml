@@ -22,6 +22,54 @@
 <!-- THEME DEBUG -->
 <!-- THEME HOOK: 'views_view_field' -->
 <!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Menakar Nilai Jual Beli Bisnis
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</title>
+  <link>https://andy.propertysyariah.biz.id/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/menakar-nilai-jual-beli-bisnis_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.
+&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 03 Feb 25 23:11:21 +0000</pubDate>
+    <dc:creator>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+Samuel Mortenson
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</dc:creator>
+    <guid isPermaLink="false">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+9d08fccf-4549-456d-be70-574e11a5a39c
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+
+</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<item>
+  <title>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_field' -->
+<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 Keuntungan Memiliki Properti
 <!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
@@ -32,8 +80,7 @@ Keuntungan Memiliki Properti
 &lt;!-- THEME DEBUG --&gt;
 &lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
 &lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Rumah Idaman: Simbol Kenyamanan dan Keberkahan
-Rumah idaman adalah impian setiap orang. Lebih dari sekadar tempat berlindung, rumah adalah simbol kenyamanan, kehangatan keluarga, dan tempat kita membangun kenangan indah. Dalam konteks bisnis properti, rumah idaman memiliki nilai simbolis yang lebih dalam, terutama dalam skema bisnis properti syariah. Rumah bukan hanya sekadar aset, tetapi juga investasi yang membawa berkah.
+Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.
 &lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
 
 </description>

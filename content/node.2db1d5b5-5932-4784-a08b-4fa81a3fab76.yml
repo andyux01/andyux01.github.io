@@ -35,10 +35,8 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: ''
-    pid: null
+  - alias: /work/ok-tugas
     langcode: en
-    pathauto: 1
 body:
   - value: |-
       <page-break break-type="site" title="Page" parent="item-9f79442c-019d-464a-86a3-60bae4c01848"

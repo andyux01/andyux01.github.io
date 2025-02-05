@@ -15,7 +15,9 @@ status:
   - value: true
 name:
   - value: berkah
-description: {  }
+description:
+  - value: null
+    format: null
 weight:
   - value: 0
 parent:

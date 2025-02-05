@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/drupal-services-sql-injection-dont-trust-abstractions
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>Drupal doesn’t have many SQL injection vulnerabilities anymore, at least not since the original Drupalgeddon was released into the wild. So what makes Drupal so safe? Abstractions of course! The database abstraction layer or “DB layer” is used throughout core and contrib to make all sorts of database calls in a way that’s easy to understand and relatively secure. On top of that, now-a-days most code only needs to use the Entity API, which is another huge abstraction on top of the DB layer.</p>

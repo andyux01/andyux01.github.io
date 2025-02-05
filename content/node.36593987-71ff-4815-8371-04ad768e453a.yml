@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/static-searches-drupal-and-lunr
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>As a part of my ongoing work on&nbsp;<a href="https://tome.fyi/">Tome</a>, a Drupal static site generator, I’ve become interested in providing a solution for static searches. If you have a static site there’s typically no backend to do any server side processing, which means that search has to be done on the client or through a third party service. After researching some existing solutions I found&nbsp;<a href="https://lunrjs.com/">Lunr</a>, a JavaScript based search engine that provides a simple API for indexing and searching content. It seemed like Drupal and Lunr would be a great match, so I set out to build an integration.</p>

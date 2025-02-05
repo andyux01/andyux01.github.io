@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/promoting-jquery-json-jsonp-trigger-xss
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>I’ve done quite a bit of security research for Drupal, and one area of exploitation that I often come back to is the AJAX API. Drupal’s AJAX API is built on top of jQuery, and lets developers easily add interactive behavior to the frontend.</p>

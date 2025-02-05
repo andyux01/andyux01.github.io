@@ -15,7 +15,9 @@ status:
   - value: true
 name:
   - value: corona
-description: {  }
+description:
+  - value: null
+    format: null
 weight:
   - value: 0
 parent:
@@ -31,4 +33,3 @@ path:
   - alias: null
     pid: null
     langcode: en
-    pathauto: 1

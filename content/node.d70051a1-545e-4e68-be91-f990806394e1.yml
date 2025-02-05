@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/tome
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>As I started to use static site generators like Jekyll and Gatsby, I started to wonder why Drupal couldn't also be used as a static site generator. After a ton of work, more than any on any Drupal module I've made, I created Tome, a static site generator for Drupal 8 that stored content, config, files, and HTML statically.</p>

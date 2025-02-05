@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/making-multi-track-tape-recorder-midi-javascript
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>During quarantine I decided to start playing music again, and entered the world of synthesizers, "DAWless" setups, and inevitably MIDI. I currently have a <a href="https://www.arturia.com/products/hybrid-synths/keystep-37/overview">Keystep 37</a>, <a href="https://www.roland.com/us/products/mc-101/">Roland MC-101</a>, and <a href="https://www.elektron.se/products/modelcycles/">Elektron Model:Cycles</a>. The latter two devices are "grooveboxes" - standalone hardware that let you make music and live jam without a computer. They have different workflows, but in both you work mostly in sequences which let you compose in 4 or 8 bars at a time.</p>

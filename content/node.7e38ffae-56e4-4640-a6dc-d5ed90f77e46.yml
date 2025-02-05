@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /gallery/blueberries
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>This is one of the last photos I have in my old backyard.</p>

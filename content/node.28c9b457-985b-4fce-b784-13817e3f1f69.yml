@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/introducing-twig-components
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>Last week I published the&nbsp;<a href="https://www.drupal.org/project/twig_components">Twig Components Drupal module</a>&nbsp;- the latest in a series of projects aiming to combine Twig, Web Components, and PHP. I wanted to write about why I’m doing this work, and why developers should care.</p>

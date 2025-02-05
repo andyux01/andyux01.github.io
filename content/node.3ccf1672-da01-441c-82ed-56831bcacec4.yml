@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/hijacking-drupal-admin-accounts-using-rest
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p><em>Note: This exploit was fixed over a year ago as a part of&nbsp;<a href="https://www.drupal.org/forum/newsletters/security-advisories-for-drupal-core/2017-04-19/drupal-core-critical-access-bypass">SA-CORE-2017-002/CVE-2017-6919</a>, so unless your Drupal 8 site is really, really out of date, you should not be affected.</em></p>

@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/photo-booth
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>When I was helping to plan my wedding, I thought it would be a cool idea to have a photo booth. I looked up some local Portland options, and thought the ~$1,000 price tag for what is essentially a DSLR camera and a backdrop was pretty ridiculous. So, being an engineer, I started building a Python script that would take four photos, assemble them into a photo strip, then print them on a cheap photo printer I bought. This was already better than most photo booth rentals because it made an actual strip - something felt really wrong about calling something a "photo booth" that wasn't a booth and didn't print a strip.</p>

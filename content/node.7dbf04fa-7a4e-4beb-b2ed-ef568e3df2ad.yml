@@ -19,12 +19,12 @@ uid:
   - target_type: user
     target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
 title:
-  - value: 'About image placeholder'
+  - value: 'Tentang Kami Andy Yulianto'
 created:
   - value: '2020-02-01T03:00:40+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2024-05-25T10:22:39+00:00'
+  - value: '2025-02-05T04:23:38+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   - value: true
@@ -35,10 +35,22 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: /gallery/about-image-placeholder
+  - alias: /gallery/Tentang-Kami-Andy-Yulianto
     langcode: en
-    pathauto: 1
-body: {  }
+body:
+  - value: |
+      <h2>Belajar Property Syariah</h2>
+
+      <p>Ingin memiliki rumah idaman yang sesuai dengan syariah? Kami siap membantu Anda. Kami menawarkan berbagai pilihan properti syariah dengan akad yang jelas dan transparan. Kami akan menjelaskan secara detail sehingga Anda dapat memilih yang paling sesuai. Dengan kami, Anda tidak hanya mendapatkan properti, tetapi juga ketenangan hati.</p>
+
+      <p>Sebagai bagian komunitas pengembang properti syariah terpercaya, kami berkomitmen untuk memberikan produk terbaik dengan akad yang sesuai syariah. Kami akan membantu Anda memahami berbagai jenis akad seperti murabahah, musyarakah, dan lainnya. Dengan konsultasi yang mendalam, Anda dapat memilih properti yang sesuai dengan kebutuhan dan kemampuan finansial Anda.</p>
+
+      <p>Miliki rumah impian tanpa riba. Kami menawarkan berbagai pilihan properti syariah dengan akad yang jelas dan transparan. Anda dapat memiliki rumah idaman tanpa khawatir akan riba. Kami juga menyediakan konsultasi untuk membantu Anda memilih akad yang paling sesuai dengan kebutuhan Anda.</p>
+
+      <p><br />
+      Hubungi WA:0895410944303</p>
+    format: full_html
+    summary: ''
 field_image:
   - alt: 'Andy sedang aksi'
     title: ''

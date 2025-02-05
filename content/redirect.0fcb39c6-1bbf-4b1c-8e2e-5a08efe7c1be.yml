@@ -1,0 +1,23 @@
+uuid:
+  - value: 0fcb39c6-1bbf-4b1c-8e2e-5a08efe7c1be
+hash:
+  - value: LxFryLHKbSo9RsU09vlktNMBOAgqTADV7mPnQ0CdRgo
+type:
+  - value: redirect
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+redirect_source:
+  - path: gallery/about-image-placeholder
+    query: {  }
+redirect_redirect:
+  - uri: 'internal:/node/23'
+    title: null
+    options: {  }
+language:
+  - value: en
+status_code:
+  - value: 301
+created:
+  - value: '2025-02-05T04:23:38+00:00'
+    format: 'Y-m-d\TH:i:sP'

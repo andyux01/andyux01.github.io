@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/creating-tome-static-site-generator-drupal-8
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>Six months ago I started work on&nbsp;<a href="https://tome.fyi/">Tome</a>, a static site generator for Drupal 8. After lots of rewrites and long nights, Tome has finally reached the beta phase of testing and development! 🎊</p>

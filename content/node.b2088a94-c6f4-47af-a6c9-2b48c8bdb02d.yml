@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/file-browser
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>When I was working at Acquia on the demo team, it became apparent that Drupal's native file handling was not exciting enough to impress clients coming from other content management systems. In response to this need, I decided to use existing Drupal 8 modules -&nbsp;Entity Embed, Entity Browser, and DropzoneJS - to create an experience that was good enough to show off.</p>

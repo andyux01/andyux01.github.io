@@ -35,8 +35,7 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: ''
-    pid: null
+  - alias: /blog/menakar-nilai-jual-beli-bisnis
     langcode: en
 body:
   - value: |

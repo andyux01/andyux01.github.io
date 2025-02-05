@@ -35,12 +35,14 @@ jobs:
     # - name: Copy CNAME
     #   run: cp CNAME ./html/
     # GitHub pages also requires the 404 page to be in a particular path, uncomment if needed:
+    - name: Copy all page
+      run: cp -rf ./* ./docs/
     - name: Copy 404 page
       run: cp ./docs/404/index.html ./docs/404.html
     - name: Deploy to GitHub pages
       uses: peaceiris/actions-gh-pages@v2
       env:
-        PUBLISH_BRANCH: gh-pages-build
+        PUBLISH_BRANCH: master
         PUBLISH_DIR: ./docs
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:

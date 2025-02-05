@@ -20,7 +20,7 @@ jobs:
     #   run: cp composer.json andyux01.github.io
     # - name: copy composer page
     #   run: cp ./andyux01.github.io/composer.json andyux01.github.io
-    - name: Install dependencies
+    - name: Install dependencies di main
       run: composer install
     - name: Install Tome
       run: ./vendor/drush/drush/drush tome:install -y

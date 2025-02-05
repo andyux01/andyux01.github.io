@@ -1,0 +1,101 @@
+uuid:
+  - value: ae3f07a7-e7fd-430f-bf54-87e791d6ca4a
+langcode:
+  - value: en
+type:
+  - target_id: blog
+    target_type: node_type
+    target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
+revision_timestamp:
+  - value: '2025-02-05T10:09:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+revision_log: {  }
+status:
+  - value: true
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+title:
+  - value: 'Tata Cara Sholat di Luar Rumah Saat Perjalanan Jauh'
+created:
+  - value: '2025-02-05T09:59:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-05T10:09:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  - value: true
+sticky:
+  - value: false
+default_langcode:
+  - value: true
+revision_translation_affected:
+  - value: true
+path:
+  - alias: ''
+    pid: null
+    langcode: en
+body:
+  - value: |
+      <p>Jamak dan qasar adalah keringanan yang diberikan oleh Islam bagi seorang muslim yang sedang dalam perjalanan jauh (minimal 80-96 km) untuk meringkas atau menggabungkan sholat fardhu. Qashar berarti meringkas rakaat sholat, sedangkan jamak berarti menggabungkan dua waktu sholat menjadi satu. Syarat-syarat untuk melakukan jamak dan qasar adalah perjalanan tersebut bukan untuk maksiat dan dilakukan dengan niat bepergian. Ketika berada di dalam kendaraan, seorang muslim diperbolehkan untuk sholat dengan syarat-syarat tertentu, seperti berusaha menghadap kiblat semaksimal mungkin. Namun, jika sholat tidak dilakukan dengan sempurna atau ditinggalkan, maka wajib untuk mengqadha atau mengulang sholat tersebut.</p>
+
+      <h2>Konsep Jama dan Qashar</h2>
+
+      <p>Qashar: Merupakan keringanan dalam menjalankan sholat dengan cara meringkas rakaat. Sholat yang bisa diqashar adalah sholat Zhuhur, Ashar, dan Isya'.<br />
+      Jamak: Menggabungkan dua waktu sholat menjadi satu waktu. Ada dua jenis jamak, yaitu jamak taqdim (mengerjakan sholat di awal waktu) dan jamak takhir (mengerjakan sholat di akhir waktu).</p>
+
+      <p>Jarak perjalanan: Minimal 2 marhalah (sekitar 80-96 km).<br />
+      Niat bepergian: Perjalanan bukan untuk maksiat, melainkan untuk hal yang dibolehkan dalam Islam.<br />
+      Waktu sholat: Masih dalam waktu yang diperbolehkan untuk sholat.</p>
+      <img alt="sholat di luar rumah dalam perjalanan jauh" data-align="center" data-caption="arah kiblat sumber:&amp;nbsp;https://murai.my/" data-entity-type="file" data-entity-uuid="b41a176d-e821-4d9b-9640-241ca08015d8" src="/sites/default/files/inline-images/sholat-arah-kiblat-di-luar-rumah.jpg" />
+      <h2>Ketika keluar rumah dan Sholat dalam Kendaraan</h2>
+
+      <p>Rukhsah sholat di kendaraan: Ini adalah keringanan yang diberikan oleh agama, bukan kewajiban. Jika memungkinkan, sebaiknya sholat dilakukan di tempat yang lebih layak.<br />
+      Kebersihan: Pastikan tubuh dan tempat sholat dalam keadaan suci. Dengan memahami tata cara sholat di dalam kendaraan, kita dapat tetap menjalankan ibadah meskipun sedang dalam perjalanan.&nbsp;</p>
+
+      <p>Sholat Sunnah: Jika Anda melakukan sholat sunnah di dalam kendaraan yang sedang bergerak, Anda diperbolehkan menghadap ke arah mana pun kendaraan tersebut mengarah. Ini disebut dengan rukhsah (keringanan).<br />
+      Sholat Fardhu: Untuk sholat fardhu, sebaiknya Anda berusaha untuk menghentikan kendaraan dan mencari tempat yang memungkinkan untuk menghadap kiblat. Namun, jika hal ini sulit dilakukan, Anda boleh sholat di dalam kendaraan dengan menghadap ke arah yang diyakini paling dekat dengan kiblat.</p>
+
+      <p>Keringanan (rukhshah): Islam memberikan keringanan bagi musafir. Jika sulit menemukan tempat yang sesuai untuk sholat, diperbolehkan sholat di kendaraan dengan syarat-syarat tertentu.</p>
+
+      <h2>Kapan Perlu Qadha?</h2>
+
+      <p>Sholat fardhu tidak sempurna: Jika sholat fardhu yang dilakukan di kendaraan tidak memenuhi syarat sah sholat (misalnya, tidak menghadap kiblat secara pasti, tidak khusyuk karena gangguan), maka sholat tersebut perlu diqadha.<br />
+      Sholat fardhu ditinggalkan: Jika waktu sholat telah lewat dan sholat fardhu belum dilakukan sama sekali, maka wajib diqadha.</p>
+
+      <p>Sholat lihurmatil waqt biasanya dilakukan ketika kita berada dalam keadaan darurat, misalnya:</p>
+
+      <p>Tidak ada air untuk berwudhu: Jika tidak ada air sama sekali, kita bisa bertayammum dengan tanah yang suci. Namun, jika tayammum pun tidak bisa dilakukan, kita tetap bisa sholat lihurmatil waqt.<br />
+      Berada di tempat yang tidak suci: Jika kita berada di tempat yang sangat kotor dan tidak memungkinkan untuk bersuci, kita bisa sholat lihurmatil waqt.<br />
+      Sakit: Jika kita sakit dan tidak bisa berdiri, kita bisa sholat sambil duduk atau berbaring.<br />
+      Contoh Sholat Menghormati Waktu:&nbsp;kita sedang dalam perjalanan jauh dan tiba-tiba waktu sholat Zhuhur. Kita tidak menemukan tempat yang bersih untuk berwudhu. Dalam kondisi seperti ini, kita bisa melakukan sholat Zhuhur lihurmatil waqt dengan niat yang benar, meskipun tanpa berwudhu.</p>
+
+      <p>Hal-hal yang Perlu Diperhatikan:</p>
+
+      <p>Niat: Niatkan dalam hati bahwa kita sholat karena menghormati waktu sholat.<br />
+      Rukun sholat: Sebaiknya tetap berusaha untuk memenuhi rukun sholat yang masih bisa dilakukan, seperti menghadap kiblat dan membaca bacaan sholat.<br />
+      Qadha: Sholat lihurmatil waqt tidak menggantikan sholat yang sempurna. Setelah kondisi memungkinkan, kita tetap harus mengqadha sholat tersebut.<br />
+      Kesimpulan</p>
+
+      <p>Sholat lihurmatil waqt adalah bentuk ketaatan kita kepada Allah SWT. Meskipun dilakukan dalam kondisi yang tidak sempurna, sholat ini tetap memiliki nilai ibadah yang besar. Dengan memahami konsep ini, kita dapat lebih menghargai waktu sholat dan senantiasa menjaga keistiqomahan dalam beribadah.<br />
+      &nbsp;</p>
+    format: full_html
+    summary: ''
+field_tags:
+  - target_type: taxonomy_term
+    target_uuid: 4d9596c5-7bfe-4f6a-b9b1-7fad1d96bb0a
+  - target_type: taxonomy_term
+    target_uuid: 8fc409b0-2ce9-4dab-a2e2-656a515a1c8a
+  - target_type: taxonomy_term
+    target_uuid: 8b38b5c8-d27a-494f-919b-675de0c336aa
+  - target_type: taxonomy_term
+    target_uuid: 25ef94a6-fcf8-4fc6-90fa-03b9903090ef
+  - target_type: taxonomy_term
+    target_uuid: 09fc8d47-26af-442d-a9fb-557814c9c2ce
+  - target_type: taxonomy_term
+    target_uuid: 0f302e00-6d7c-4310-874e-43baf013727b
+  - target_type: taxonomy_term
+    target_uuid: 373a8080-217d-44be-bc5f-8fcb0c31176c

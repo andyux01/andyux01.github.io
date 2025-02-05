@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/tabcms
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>I've worked in the CMS world for awhile, and was wondering how hard it would be to make a basic CMS that runs completely in your browser without a backend. I created&nbsp;https://tabcms.com - a functional CMS and site builder that lets you edit pages, templates, CSS, JavaScript, files, and images. At the end of your editing session, you can download your site as static HTML and upload it right to your hosting platform.</p>

@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/midi-tape
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>In quarantine I decided to build a multi-track tape recorder for MIDI, in the style of old TASCAM 4-track cassette recorders and the Teenage Engineering OP-1. It's web based, using Web MIDI to record and play back MIDI events. For more information, visit&nbsp;https://mortenson.coffee/midi-tape&nbsp;and give it a try yourself, and read my <a href="https://mortenson.coffee/blog/making-multi-track-tape-recorder-midi-javascript/">extensive blog post about its implementation</a>.</p>

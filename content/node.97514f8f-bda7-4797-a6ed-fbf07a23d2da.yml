@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/drupal-services-private-file-access-bypass-idor
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p style="line-height:1.38">There’s a feature in Drupal that not a lot of people know about, but is a great target for security research - private files. Private files allow&nbsp;you to upload files to a non-public directory on your server, then serve them through Drupal instead of through your HTTP server. Drupal is then able to check access for files to determine if the current user can download them.</p>

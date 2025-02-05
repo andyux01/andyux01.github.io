@@ -15,7 +15,9 @@ status:
   - value: true
 name:
   - value: 'skema bayar'
-description: {  }
+description:
+  - value: null
+    format: null
 weight:
   - value: 0
 parent:

@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/how-i-work-drupal
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>I recently celebrated my&nbsp;<a href="https://drupalbirthday.fun/samuel.mortenson">five-year anniversary</a>&nbsp;on Drupal.org, and wanted to write about how I work on issues day-to-day and my general contribution “vibe”.</p>

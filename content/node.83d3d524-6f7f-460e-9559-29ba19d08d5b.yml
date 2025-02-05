@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/simplifying-drupal-frontend-single-file-components
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>I’ve been thinking about ways to make Drupal frontend easier recently, and have been working on an experimental module called Single File Components (SFC), which lets you put your CSS, JS, Twig, and PHP in one file. If you want to skip the blog (😭) you can just check out the project at&nbsp;<a href="https://www.drupal.org/project/sfc">https://www.drupal.org/project/sfc</a>.</p>

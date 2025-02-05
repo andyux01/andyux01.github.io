@@ -35,7 +35,8 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: /gallery/jalan-jalan-pagi-andy-yulianto
+  - alias: null
+    pid: null
     langcode: en
 body:
   - value: |

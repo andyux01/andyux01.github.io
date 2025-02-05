@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/moderation-note
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>When comparing Drupal to other content management systems, a major feature request is to have some sort of inline commenting tool. This is useful when collaborating with other content editors as part of a moderation workflow.</p>

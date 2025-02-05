@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/creating-cms-runs-your-browser
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>Why do content management systems have backends? If end users only see your&nbsp;cached HTML, is it worth the technical complexity just so you can edit in production?</p>

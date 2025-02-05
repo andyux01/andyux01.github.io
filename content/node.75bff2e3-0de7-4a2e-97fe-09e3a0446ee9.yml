@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /work/single-file-components
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>After reviewing <a href="https://vuejs.org/v2/guide/single-file-components.html">Vue.js's implementation of Single File Components</a>, I was inspired to bring something similar to Drupal. Drupal's frontend is notoriously complex, and many projects have tried to bring component based design to Drupal. The main differentiator of the Single File Components Drupal module is that there's only one file for your Twig template, CSS, and JavaScript. Once you write a <span class="monospace">.sfc</span> file you can include it in any other Twig template, or even derive a block or layout to use in the admin interface.</p>

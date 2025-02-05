@@ -37,7 +37,6 @@ revision_translation_affected:
 path:
   - alias: /blog/meet-bookish-install-profile-static-drupal-blogs
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>For the last four years I’ve been working on a static site generator for Drupal called <a href="https://tome.fyi/">Tome</a>. Unlike other generators Tome uses “vanilla” Drupal, which means that if you know how to build a Drupal site, you know how to build a Tome site! One downside of this is that when comparing a default install of Drupal with a default install of something like <a href="https://www.gatsbyjs.com/">Gatsby</a>, Drupal looks pretty outdated. I wanted to show Tome off but couldn’t do it well with core, so I decided to focus my energy on a new install profile for static blogs - <a href="https://github.com/drupal-tome/bookish">Bookish</a>.</p>

@@ -24,7 +24,7 @@ created:
   - value: '2024-05-29T01:46:23+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2024-05-29T01:50:26+00:00'
+  - value: '2025-02-05T04:07:23+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   - value: true
@@ -35,17 +35,15 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: ''
-    pid: null
+  - alias: /gallery/jalan-jalan-pagi-andy-yulianto
     langcode: en
-    pathauto: 1
 body:
   - value: |
       <p>Suasana ketika jalan-jalan pagi</p>
     format: full_html
     summary: ''
 field_image:
-  - alt: 'Andy sedang aksi'
+  - alt: 'Andy sedang aksi di pagi hari'
     title: ''
     width: 2048
     height: 1152

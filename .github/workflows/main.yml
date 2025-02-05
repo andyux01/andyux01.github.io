@@ -2,7 +2,7 @@ name: Build and deploy site
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,11 +26,11 @@ jobs:
       run: ./vendor/drush/drush/drush tome:install -y
     # Uncomment these lines if needed:
     - name: Generate sitemap
-      run: ./vendor/drush/drush/drush simple-sitemap-generate -y -l "andyux01.github.io"
+      run: ./vendor/drush/drush/drush simple-sitemap-generate -y -l "https://andy.propertysyariah.biz.id"
     - name: Build search index
       run: LUNR_DRUSH=./vendor/drush/drush/drush nodejs web/modules/contrib/lunr/js/index.node.js default
     - name: Build static site
-      run: ./vendor/drush/drush/drush tome:static -l "andyux01.github.io"
+      run: ./vendor/drush/drush/drush tome:static -l "andy.propertysyariah.biz.id"
     # If you're pointing a custom domain to GitHub Pages, you probably need a CNAME file:
     # - name: Copy CNAME
     #   run: cp CNAME ./html/

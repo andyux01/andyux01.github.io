@@ -1,0 +1,23 @@
+uuid:
+  - value: d55ecfbb-0a22-40b4-a9fd-5a18d0b32203
+hash:
+  - value: wRHqIxhTItWSuR6foW8nOSr-PeggL74-SioI8o-eIKM
+type:
+  - value: redirect
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+redirect_source:
+  - path: gallery/jalan-jalan-pagi
+    query: {  }
+redirect_redirect:
+  - uri: 'internal:/node/36'
+    title: null
+    options: {  }
+language:
+  - value: en
+status_code:
+  - value: 301
+created:
+  - value: '2025-02-05T04:07:23+00:00'
+    format: 'Y-m-d\TH:i:sP'

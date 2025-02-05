@@ -465,9 +465,6 @@
         "file.63877e86-434c-4548-b9e7-f3dfafbcdbf2",
         "taxonomy_term.c3d8033f-1929-4d25-aa65-fadfc6a88bdb"
     ],
-    "path_alias.816b6b83-3c2a-4a8e-b989-a878a89a9852": [
-        "node.562da94c-189c-43f7-bc6a-7a1c06cbd26d"
-    ],
     "node.4c6c07d1-b633-4c9b-96a9-c4a425646b9c": [
         "user.30bffdc0-96b3-4656-9078-3f8113359c60",
         "taxonomy_term.f2798791-f4f2-4d39-993a-d1186cff2b80"
@@ -515,5 +512,11 @@
     ],
     "path_alias.4b876bbc-e0f5-44bb-8818-386598e3dbc9": [
         "node.9d08fccf-4549-456d-be70-574e11a5a39c"
+    ],
+    "redirect.d55ecfbb-0a22-40b4-a9fd-5a18d0b32203": [
+        "user.30bffdc0-96b3-4656-9078-3f8113359c60"
+    ],
+    "redirect.0fcb39c6-1bbf-4b1c-8e2e-5a08efe7c1be": [
+        "user.30bffdc0-96b3-4656-9078-3f8113359c60"
     ]
 }

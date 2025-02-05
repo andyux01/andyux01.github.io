@@ -4,9 +4,13 @@ status: true
 dependencies:
   config:
     - field.field.node.blog.body
+    - field.field.node.blog.field_image
+    - field.field.node.blog.field_subtitle
     - field.field.node.blog.field_tags
     - node.type.blog
+    - responsive_image.styles.work_full
   module:
+    - responsive_image
     - text
     - user
 id: node.blog.default
@@ -20,6 +24,25 @@ content:
     settings: {  }
     third_party_settings: {  }
     weight: 101
+    region: content
+  field_image:
+    type: responsive_image
+    label: hidden
+    settings:
+      responsive_image_style: work_full
+      image_link: ''
+      image_loading:
+        attribute: eager
+    third_party_settings: {  }
+    weight: 103
+    region: content
+  field_subtitle:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: 104
     region: content
   field_tags:
     type: entity_reference_label

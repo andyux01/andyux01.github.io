@@ -8,7 +8,6 @@ dependencies:
   module:
     - node
     - text
-    - user
 id: feed
 label: Feed
 module: views
@@ -23,7 +22,7 @@ display:
     display_plugin: default
     position: 0
     display_options:
-      title: "Samuel Mortenson's personal blog"
+      title: 'Blog Pribadi Andy Yulianto (Developer Property Syariah)'
       fields:
         title:
           id: title
@@ -359,7 +358,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: 'Samuel Mortenson'
+            text: 'Andy Property Syariah Biz Id'
             make_link: false
             path: ''
             absolute: false
@@ -426,9 +425,8 @@ display:
           sort_asc_label: Asc
           sort_desc_label: Desc
       access:
-        type: perm
-        options:
-          perm: 'access content'
+        type: none
+        options: {  }
       cache:
         type: tag
         options: {  }
@@ -468,14 +466,44 @@ display:
           id: type
           table: node_field_data
           field: type
+          relationship: none
+          group_type: group
+          admin_label: ''
           entity_type: node
           entity_field: type
           plugin_id: bundle
+          operator: in
           value:
             blog: blog
+          group: 1
+          exposed: false
           expose:
+            operator_id: ''
+            label: ''
+            description: ''
+            use_operator: false
+            operator: ''
             operator_limit_selection: false
             operator_list: {  }
+            identifier: ''
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+            reduce: false
+          is_grouped: false
+          group_info:
+            label: ''
+            description: ''
+            identifier: ''
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items: {  }
       style:
         type: default
         options:
@@ -509,7 +537,6 @@ display:
         - 'languages:language_interface'
         - url.query_args
         - 'user.node_grants:view'
-        - user.permissions
       tags:
         - 'config:field.storage.node.body'
   feed_1:
@@ -525,20 +552,19 @@ display:
       style:
         type: rss
         options:
-          grouping: {  }
+          grouping:
+            -
+              field: body
+              rendered: true
+              rendered_strip: false
           description: 'The latest from my mind to yours.'
       row:
-        type: rss_fields
+        type: node_rss
         options:
-          title_field: title
-          link_field: view_node
-          description_field: body
-          creator_field: nothing
-          date_field: created
-          guid_field_options:
-            guid_field: uuid
-            guid_field_is_permalink: false
-      display_extenders: {  }
+          relationship: none
+          view_mode: default
+      display_extenders:
+        simple_sitemap_display_extender: {  }
       path: feed.xml
       sitename_title: false
     cache_metadata:
@@ -547,6 +573,5 @@ display:
         - 'languages:language_content'
         - 'languages:language_interface'
         - 'user.node_grants:view'
-        - user.permissions
       tags:
         - 'config:field.storage.node.body'

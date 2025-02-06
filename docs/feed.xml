@@ -1,115 +1,185 @@
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://andy.propertysyariah.biz.id/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://andy.propertysyariah.biz.id/">
   <channel>
-    <title>Samuel Mortenson&#039;s personal blog</title>
-    <link>https://andy.propertysyariah.biz.id/</link>
+    <title>Blog Pribadi Andy Yulianto (Developer Property Syariah)</title>
+    <link>http://andy.propertysyariah.biz.id/</link>
     <description>The latest from my mind to yours.</description>
     <language>en</language>
     
-    
+    <item>
+  <title>Tata Cara Sholat di Luar Rumah Saat Perjalanan Jauh</title>
+  <link>http://andy.propertysyariah.biz.id/blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh</link>
+  <description><![CDATA[
+<span>Tata Cara Sholat di Luar Rumah Saat Perjalanan Jauh</span>
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-<item>
-  <title>
+<span><a title="View user profile." href="http://andy.propertysyariah.biz.id/user/1">andy</a></span>
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Menakar Nilai Jual Beli Bisnis
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span>Wed, 02/05/2025 - 16:59
+</span>
 
-</title>
-  <link>https://andy.propertysyariah.biz.id/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/menakar-nilai-jual-beli-bisnis_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
+            <p>Jamak dan qasar adalah keringanan yang diberikan oleh Islam bagi seorang muslim yang sedang dalam perjalanan jauh (minimal 80-96 km) untuk meringkas atau menggabungkan sholat fardhu. Qashar berarti meringkas rakaat sholat, sedangkan jamak berarti menggabungkan dua waktu sholat menjadi satu. Syarat-syarat untuk melakukan jamak dan qasar adalah perjalanan tersebut bukan untuk maksiat dan dilakukan dengan niat bepergian. Ketika berada di dalam kendaraan, seorang muslim diperbolehkan untuk sholat dengan syarat-syarat tertentu, seperti berusaha menghadap kiblat semaksimal mungkin. Namun, jika sholat tidak dilakukan dengan sempurna atau ditinggalkan, maka wajib untuk mengqadha atau mengulang sholat tersebut.</p>
+<h2>Konsep Jama dan Qashar</h2>
+<p>Qashar: Merupakan keringanan dalam menjalankan sholat dengan cara meringkas rakaat. Sholat yang bisa diqashar adalah sholat Zhuhur, Ashar, dan Isya'.<br><br>
+Jamak: Menggabungkan dua waktu sholat menjadi satu waktu. Ada dua jenis jamak, yaitu jamak taqdim (mengerjakan sholat di awal waktu) dan jamak takhir (mengerjakan sholat di akhir waktu).</p>
+<p>Jarak perjalanan: Minimal 2 marhalah (sekitar 80-96 km).<br><br>
+Niat bepergian: Perjalanan bukan untuk maksiat, melainkan untuk hal yang dibolehkan dalam Islam.<br><br>
+Waktu sholat: Masih dalam waktu yang diperbolehkan untuk sholat.</p>
+<p></p>
 
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+arah kiblat sumber:&nbsp;<a href="https://murai.my/">https://murai.my/</a>
 
-</description>
-  <pubDate>Mon, 03 Feb 25 23:11:21 +0000</pubDate>
-    <dc:creator>
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<h2>Ketika keluar rumah dan Sholat dalam Kendaraan</h2>
+<p>Rukhsah sholat di kendaraan: Ini adalah keringanan yang diberikan oleh agama, bukan kewajiban. Jika memungkinkan, sebaiknya sholat dilakukan di tempat yang lebih layak.<br><br>
+Kebersihan: Pastikan tubuh dan tempat sholat dalam keadaan suci. Dengan memahami tata cara sholat di dalam kendaraan, kita dapat tetap menjalankan ibadah meskipun sedang dalam perjalanan.&nbsp;</p>
+<p>Sholat Sunnah: Jika Anda melakukan sholat sunnah di dalam kendaraan yang sedang bergerak, Anda diperbolehkan menghadap ke arah mana pun kendaraan tersebut mengarah. Ini disebut dengan rukhsah (keringanan).<br><br>
+Sholat Fardhu: Untuk sholat fardhu, sebaiknya Anda berusaha untuk menghentikan kendaraan dan mencari tempat yang memungkinkan untuk menghadap kiblat. Namun, jika hal ini sulit dilakukan, Anda boleh sholat di dalam kendaraan dengan menghadap ke arah yang diyakini paling dekat dengan kiblat.</p>
+<p>Keringanan (rukhshah): Islam memberikan keringanan bagi musafir. Jika sulit menemukan tempat yang sesuai untuk sholat, diperbolehkan sholat di kendaraan dengan syarat-syarat tertentu.</p>
+<h2>Kapan Perlu Qadha?</h2>
+<p>Sholat fardhu tidak sempurna: Jika sholat fardhu yang dilakukan di kendaraan tidak memenuhi syarat sah sholat (misalnya, tidak menghadap kiblat secara pasti, tidak khusyuk karena gangguan), maka sholat tersebut perlu diqadha.<br><br>
+Sholat fardhu ditinggalkan: Jika waktu sholat telah lewat dan sholat fardhu belum dilakukan sama sekali, maka wajib diqadha.</p>
+<p>Sholat lihurmatil waqt biasanya dilakukan ketika kita berada dalam keadaan darurat, misalnya:</p>
+<p>Tidak ada air untuk berwudhu: Jika tidak ada air sama sekali, kita bisa bertayammum dengan tanah yang suci. Namun, jika tayammum pun tidak bisa dilakukan, kita tetap bisa sholat lihurmatil waqt.<br><br>
+Berada di tempat yang tidak suci: Jika kita berada di tempat yang sangat kotor dan tidak memungkinkan untuk bersuci, kita bisa sholat lihurmatil waqt.<br><br>
+Sakit: Jika kita sakit dan tidak bisa berdiri, kita bisa sholat sambil duduk atau berbaring.<br><br>
+Contoh Sholat Menghormati Waktu:&nbsp;kita sedang dalam perjalanan jauh dan tiba-tiba waktu sholat Zhuhur. Kita tidak menemukan tempat yang bersih untuk berwudhu. Dalam kondisi seperti ini, kita bisa melakukan sholat Zhuhur lihurmatil waqt dengan niat yang benar, meskipun tanpa berwudhu.</p>
+<p>Hal-hal yang Perlu Diperhatikan:</p>
+<p>Niat: Niatkan dalam hati bahwa kita sholat karena menghormati waktu sholat.<br><br>
+Rukun sholat: Sebaiknya tetap berusaha untuk memenuhi rukun sholat yang masih bisa dilakukan, seperti menghadap kiblat dan membaca bacaan sholat.<br><br>
+Qadha: Sholat lihurmatil waqt tidak menggantikan sholat yang sempurna. Setelah kondisi memungkinkan, kita tetap harus mengqadha sholat tersebut.<br><br>
+Kesimpulan</p>
+<p>Sholat lihurmatil waqt adalah bentuk ketaatan kita kepada Allah SWT. Meskipun dilakukan dalam kondisi yang tidak sempurna, sholat ini tetap memiliki nilai ibadah yang besar. Dengan memahami konsep ini, kita dapat lebih menghargai waktu sholat dan senantiasa menjaga keistiqomahan dalam beribadah.<br><br>
+&nbsp;</p>
 
-</dc:creator>
-    <guid isPermaLink="false">
+      
+  
+    Tags
+          
+              <a href="http://andy.propertysyariah.biz.id/taxonomy/term/26" hreflang="en">rumah</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/27" hreflang="en">tenang</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/28" hreflang="en">jama</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/29" hreflang="en">qashar</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/30" hreflang="en">perjalanan</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/25" hreflang="en">berkah</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/24" hreflang="en">nyaman</a>
+              
+      
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-9d08fccf-4549-456d-be70-574e11a5a39c
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+              <a href="http://andy.propertysyariah.biz.id/blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh" hreflang="en">
 
-</guid>
+</a>
+
+      ]]></description>
+  <pubDate>Wed, 05 Feb 2025 09:59:49 +0000</pubDate>
+    <dc:creator>andy</dc:creator>
+    <guid isPermaLink="false">38 at http://andy.propertysyariah.biz.id</guid>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
 <item>
-  <title>
+  <title>Menakar Nilai Jual Beli Bisnis</title>
+  <link>http://andy.propertysyariah.biz.id/blog/menakar-nilai-jual-beli-bisnis</link>
+  <description><![CDATA[
+<span>Menakar Nilai Jual Beli Bisnis</span>
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Keuntungan Memiliki Properti
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
+<span><a title="View user profile." href="http://andy.propertysyariah.biz.id/user/1">andy</a></span>
 
-</title>
-  <link>https://andy.propertysyariah.biz.id/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/keuntungan-memiliki-properti_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
+<span>Tue, 02/04/2025 - 06:11
+</span>
 
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
+            <p>Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.</p>
+<h2>Keberkahan dalam Transaksi</h2>
+<p>Keberkahan dalam transaksi properti syariah berarti bahwa transaksi tersebut dilakukan dengan cara yang sesuai dengan prinsip-prinsip agama Islam. Tidak ada unsur riba (bunga), gharar (ketidakpastian), atau penipuan dalam transaksi tersebut. Dengan demikian, baik penjual maupun pembeli merasa tenang dan nyaman karena transaksi yang dilakukan sesuai dengan ajaran agama.</p>
+<p>Islam sangat menganjurkan umatnya untuk saling tolong-menolong dan bekerjasama dalam kebaikan. Kerjasama ini tidak hanya terbatas pada urusan agama, tetapi juga dalam urusan duniawi, seperti bisnis, sosial, dan kemasyarakatan.</p>
+<p>Dalam Al-Qur'an, Allah SWT berfirman:</p>
+<p>"...dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan janganlah kamu tolong-menolong dalam (mengerjakan) dosa dan pelanggaran..." (QS. Al-Maidah: 2) &nbsp;&nbsp;</p>
+<p>Rasulullah SAW juga bersabda: &nbsp;&nbsp;</p>
+<p>"Seorang muslim adalah saudara bagi muslim yang lain, dia tidak menzaliminya dan tidak membiarkannya (dizalimi). Barangsiapa yang membantu saudaranya, maka Allah akan membantunya. Barangsiapa yang menghilangkan kesulitan seorang muslim, maka Allah akan menghilangkan kesulitannya pada hari kiamat." (HR. Bukhari dan Muslim)</p>
+<p>Keadilan dalam Berbisnis</p>
+<p>Keadilan dalam bisnis properti syariah berarti bahwa semua pihak yang terlibat dalam transaksi mendapatkan haknya secara adil. Tidak ada pihak yang dirugikan atau dieksploitasi. Penjual dan pembeli sama-samaUntung dalam transaksi yang transparan dan saling menguntungkan.</p>
+<p>Islam sangat menganjurkan umatnya untuk saling tolong-menolong dan bekerjasama dalam kebaikan. Kerjasama ini tidak hanya terbatas pada urusan agama, tetapi juga dalam urusan duniawi, seperti bisnis, sosial, dan kemasyarakatan.</p>
+<p>Dalam Al-Qur'an, Allah SWT berfirman:</p>
+<p>"...dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan janganlah kamu tolong-menolong dalam (mengerjakan) dosa dan pelanggaran..." (QS. Al-Maidah: 2) &nbsp;&nbsp;</p>
+<p>Rasulullah SAW juga bersabda: &nbsp;&nbsp;</p>
+<p>"Seorang muslim adalah saudara bagi muslim yang lain, dia tidak menzaliminya dan tidak membiarkannya (dizalimi). Barangsiapa yang membantu saudaranya, maka Allah akan membantunya. Barangsiapa yang menghilangkan kesulitan seorang muslim, maka Allah akan menghilangkan kesulitannya pada hari kiamat." (HR. Bukhari dan Muslim)</p>
+<h2><br><br>
+Keuntungan Bersama dalam Kerjasama (Ta'awun)</h2>
+<p><br><br>
+Dalam properti syariah, keuntungan tidak hanya menjadi milik satu pihak, tetapi juga menjadi keuntungan bersama. Penjual mendapatkan keuntungan dari penjualan properti, sementara pembeli mendapatkan keuntungan karena memiliki rumah idaman yang sesuai dengan prinsip-prinsip syariah.</p>
+<p>Contoh</p>
+<p>Seorang developer syariah membangun perumahan dengan konsep yang islami. Perumahan tersebut dilengkapi dengan fasilitas masjid, taman bermain, dan lingkungan yang aman dan nyaman. Developer menjual rumah-rumah tersebut dengan harga yang wajar dan transparan. Pembeli yang membeli rumah di perumahan tersebut tidak hanya mendapatkan tempat tinggal yang nyaman, tetapi juga lingkungan yang islami danInvestasi yangBerkah.</p>
+<p>Setiap muslim memiliki tanggung jawab atas apa yang telah diamanahkan kepadanya. Tanggung jawab ini tidak hanya kepada Allah SWT, tetapi juga kepada sesama manusia dan lingkungan sekitar.</p>
+<p>Rasulullah SAW bersabda:</p>
+<p>"Setiap kamu adalah pemimpin dan setiap kamu akan dimintai pertanggungjawaban atas kepemimpinannya." (HR. Bukhari dan Muslim) &nbsp;&nbsp;</p>
+<h2><br><br>
+Saling Percaya (Amanah)</h2>
+<p>Saling percaya adalah salah satu nilai penting dalam Islam. Setiap muslim dituntut untuk memiliki sifat amanah, yaitu jujur, dapat dipercaya, dan bertanggung jawab. Amanah ini harus dijaga dalam segala aspek kehidupan, baik dalam perkataan maupun perbuatan.</p>
+<p>Rasulullah SAW bersabda:</p>
+<p>"Tidaklah (sempurna) iman seseorang itu, kecuali jika ia amanah. Dan tidaklah (sempurna) agama seseorang itu, kecuali jika ia jujur." (HR. Ahmad)</p>
+<p></p>
 
-</description>
-  <pubDate>Sat, 01 Feb 25 10:04:09 +0000</pubDate>
-    <dc:creator>
+keuntungan tidak hanya diukur dari materi, tetapi juga dari keberkahan dan keadilan,&nbsp;konsep nilai-nilai kerjasama, saling percaya, dan tanggung jawab yang dijunjung tinggi dalam Islam
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
 
-</dc:creator>
-    <guid isPermaLink="false">
+<h2>Tanggung Jawab (Mas'uliyyah)</h2>
+<p>Implementasi dalam Kehidupan Sehari-hari</p>
+<p>Nilai-nilai kerjasama, saling percaya, dan tanggung jawab ini harus diimplementasikan dalam kehidupan sehari-hari, baik dalam keluarga, masyarakat, maupun dalam dunia bisnis. Dengan mengamalkan nilai-nilai ini, tercipta kehidupan yang harmonis, damai, dan sejahtera.</p>
+<p>Contoh dalam Bisnis</p>
+<p>Dalam bisnis, kerjasama dapat diwujudkan dengan membangun tim yang solid dan saling mendukung. Saling percaya dapat diwujudkan dengan bersikap jujur dan transparan dalam setiap transaksi. Tanggung jawab dapat diwujudkan dengan memberikan pelayanan yang terbaik kepada pelanggan dan menjaga kualitas produk atau jasa yang ditawarkan.</p>
+<p><br><br>
+Dalam bisnis properti syariah, keuntungan tidak hanya diukur dari materi, tetapi juga dari keberkahan dan keadilan. Penjual dan pembeli sama-sama diuntungkan dalam transaksi yang transparan dan saling menguntungkan. Hal ini sesuai dengan nilai-nilai Islam yang menjunjung tinggi keadilan, kejujuran, dan keberkahan dalam setiap aspek kehidupan, termasuk dalam berbisnis properti.<br><br>
+Nilai-nilai kerjasama, saling percaya, dan tanggung jawab adalah nilai-nilai luhur yang sangat dijunjung tinggi dalam Islam. Dengan mengamalkan nilai-nilai ini, setiap muslim dapat menjadi individu yang berkualitas dan berkontribusi positif bagi masyarakat dan lingkungannya.</p>
 
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-a312e9d2-7786-4a80-8f33-21ef24b51fad
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+      
+  
+    Tags
+          
+              <a href="http://andy.propertysyariah.biz.id/taxonomy/term/21" hreflang="en">bisnis</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/25" hreflang="en">berkah</a>
+              
+      
+]]></description>
+  <pubDate>Mon, 03 Feb 2025 23:11:21 +0000</pubDate>
+    <dc:creator>andy</dc:creator>
+    <guid isPermaLink="false">37 at http://andy.propertysyariah.biz.id</guid>
     </item>
+<item>
+  <title>Keuntungan Memiliki Properti</title>
+  <link>http://andy.propertysyariah.biz.id/blog/keuntungan-memiliki-properti</link>
+  <description><![CDATA[
+<span>Keuntungan Memiliki Properti</span>
 
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
+<span><a title="View user profile." href="http://andy.propertysyariah.biz.id/user/1">andy</a></span>
 
+<span>Sat, 02/01/2025 - 17:04
+</span>
+
+            <p data-sourcepos="3:1-3:50">Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.</p>
+<h2 data-sourcepos="3:1-3:50"><strong>Rumah Idaman: Simbol Kenyamanan dan Keberkahan</strong></h2>
+<p data-sourcepos="5:1-5:384">Rumah idaman adalah impian setiap orang. Lebih dari sekadar tempat berlindung, rumah adalah simbol kenyamanan, kehangatan keluarga, dan tempat kita membangun kenangan indah. Dalam konteks bisnis properti, rumah idaman memiliki nilai simbolis yang lebih dalam, terutama dalam <strong>skema bisnis</strong> properti syariah. Rumah bukan hanya sekadar aset, tetapi juga investasi yang membawa berkah.</p>
+<h2 data-sourcepos="7:1-7:53"><strong>Keuntungan Bersama: Simbol Keadilan dan Kerjasama</strong></h2>
+<p data-sourcepos="9:1-9:342">Dalam bisnis properti syariah, keuntungan tidak hanya diukur dari materi, tetapi juga dari keberkahan dan keadilan. Penjual dan pembeli sama-sama diuntungkan dalam transaksi yang transparan dan saling menguntungkan. Simbolisnya, hal ini mencerminkan nilai-nilai kerjasama, saling percaya, dan tanggung jawab yang dijunjung tinggi dalam Islam.</p>
+<p></p>
+<h2 data-sourcepos="11:1-11:64"><strong>Skema Bisnis Properti Syariah: Simbol Kepatuhan dan Kemajuan</strong></h2>
+<p data-sourcepos="13:1-13:412"><strong>Skema bisnis</strong> properti syariah menawarkan solusi bagi mereka yang ingin memiliki rumah idaman dengan cara yang sesuai dengan prinsip-prinsip agama Islam. Transaksi yang bebas riba, akad yang jelas, dan lingkungan yang islami menjadi daya tarik utama. Secara simbolis, <strong>skema bisnis</strong> ini menunjukkan bahwa kemajuan dan keberkahan dapat diraih melalui cara-cara yang benar dan sesuai dengan nilai-nilai agama.</p>
+<h2 data-sourcepos="15:1-15:57"><strong>Rumah Idaman yang Berkah: Investasi Dunia dan Akhirat</strong></h2>
+<p data-sourcepos="17:1-17:422">Memiliki rumah idaman bukan hanya tentang memiliki tempat tinggal yang nyaman, tetapi juga tentang investasi yang membawa berkah di dunia dan akhirat. Dalam properti syariah, setiap transaksi didasari oleh niat yang baik dan tujuan yang mulia. Hal ini memberikan nilai tambah pada rumah idaman kita, menjadikannya bukan hanya sekadar aset, tetapi juga investasi yang membawa kebaikan dan keberkahan bagi kita dan keluarga.</p>
+<h2 data-sourcepos="19:1-19:67"><strong>Kesimpulan: Rumah Idaman sebagai Simbol Harapan dan Kebahagiaan</strong></h2>
+<p data-sourcepos="21:1-21:426">Rumah idaman adalah simbol harapan dan kebahagiaan. Dalam bisnis properti syariah, simbol ini semakin diperkuat dengan nilai-nilai agama, keadilan, dan keberkahan. Memiliki rumah idaman dengan cara yang benar adalah impian yang dapat diwujudkan. Dengan memilih <strong>skema bisnis</strong> properti syariah, kita tidak hanya mendapatkan rumah yang nyaman, tetapi juga investasi yang membawa kebaikan dan keberkahan bagi kita dan keluarga.</p>
+
+      
+  
+    Tags
+          
+              <a href="http://andy.propertysyariah.biz.id/taxonomy/term/21" hreflang="en">bisnis</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/22" hreflang="en">skema bayar</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/23" hreflang="en">adil</a>
+          <a href="http://andy.propertysyariah.biz.id/taxonomy/term/24" hreflang="en">nyaman</a>
+              
+      
+]]></description>
+  <pubDate>Sat, 01 Feb 2025 10:04:09 +0000</pubDate>
+    <dc:creator>andy</dc:creator>
+    <guid isPermaLink="false">21 at http://andy.propertysyariah.biz.id</guid>
+    </item>
 
   </channel>
 </rss>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
-

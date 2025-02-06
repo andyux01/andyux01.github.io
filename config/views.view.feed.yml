@@ -10,7 +10,6 @@ dependencies:
   module:
     - node
     - text
-    - user
 id: feed
 label: Feed
 module: views
@@ -428,9 +427,8 @@ display:
           sort_asc_label: Asc
           sort_desc_label: Desc
       access:
-        type: perm
-        options:
-          perm: 'access content'
+        type: none
+        options: {  }
       cache:
         type: tag
         options: {  }
@@ -480,8 +478,6 @@ display:
           value:
             all: all
             blog: blog
-            gallery_item: gallery_item
-            work: work
           group: 1
           exposed: false
           expose:
@@ -544,7 +540,6 @@ display:
         - 'languages:language_interface'
         - url.query_args
         - 'user.node_grants:view'
-        - user.permissions
       tags:
         - 'config:field.storage.node.body'
   feed_1:
@@ -560,19 +555,15 @@ display:
       style:
         type: rss
         options:
-          grouping: {  }
+          grouping:
+            -
+              field: body
+              rendered: true
+              rendered_strip: false
           description: 'The latest from my mind to yours.'
       row:
-        type: rss_fields
+        type: node_rss
         options:
-          title_field: title
-          link_field: view_node
-          description_field: body
-          creator_field: nothing
-          date_field: created
-          guid_field_options:
-            guid_field: uuid
-            guid_field_is_permalink: false
       display_extenders:
         simple_sitemap_display_extender: {  }
       path: feed.xml
@@ -583,6 +574,5 @@ display:
         - 'languages:language_content'
         - 'languages:language_interface'
         - 'user.node_grants:view'
-        - user.permissions
       tags:
         - 'config:field.storage.node.body'

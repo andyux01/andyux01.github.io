@@ -21,17 +21,26 @@
  </url>
  <url>
   <loc>https://andy.propertysyariah.biz.id/blog/keuntungan-memiliki-properti</loc>
-  <lastmod>2025-02-04T15:14:43+00:00</lastmod>
+  <lastmod>2025-02-04T22:14:43+07:00</lastmod>
   <priority>0.5</priority>
  </url>
  <url>
   <loc>https://andy.propertysyariah.biz.id/blog/menakar-nilai-jual-beli-bisnis</loc>
-  <lastmod>2025-02-03T23:18:52+00:00</lastmod>
+  <lastmod>2025-02-04T06:18:52+07:00</lastmod>
   <priority>0.5</priority>
  </url>
  <url>
+  <loc>https://andy.propertysyariah.biz.id/blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh</loc>
+  <lastmod>2025-02-05T19:11:43+07:00</lastmod>
+  <priority>0.5</priority>
+  <image:image>
+   <image:loc>https://andy.propertysyariah.biz.id/sites/default/files/gallery/camp.jpg</image:loc>
+   <image:caption>camp sehari property syariah</image:caption>
+  </image:image>
+ </url>
+ <url>
   <loc>https://andy.propertysyariah.biz.id/gallery/Tentang-Kami-Andy-Yulianto</loc>
-  <lastmod>2025-02-05T04:23:38+00:00</lastmod>
+  <lastmod>2025-02-05T11:23:38+07:00</lastmod>
   <priority>0.5</priority>
   <image:image>
    <image:loc>https://andy.propertysyariah.biz.id/sites/default/files/gallery/foto-Andy.jpg</image:loc>
@@ -40,16 +49,11 @@
  </url>
  <url>
   <loc>https://andy.propertysyariah.biz.id/node/36</loc>
-  <lastmod>2025-02-05T04:07:23+00:00</lastmod>
+  <lastmod>2025-02-05T11:07:23+07:00</lastmod>
   <priority>0.5</priority>
   <image:image>
    <image:loc>https://andy.propertysyariah.biz.id/sites/default/files/gallery/20201231_065838.jpg</image:loc>
    <image:caption>Andy sedang aksi di pagi hari</image:caption>
   </image:image>
- </url>
- <url>
-  <loc>https://andy.propertysyariah.biz.id/work/ok-tugas</loc>
-  <lastmod>2024-06-06T07:14:29+00:00</lastmod>
-  <priority>0.5</priority>
  </url>
 </urlset>

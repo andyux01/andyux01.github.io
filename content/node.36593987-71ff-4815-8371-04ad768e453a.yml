@@ -96,6 +96,8 @@ body:
       <p>In conclusion, the Drupal Lunr integration is ready for testing and use - the project is called “Lunr search” and can be&nbsp;<a href="https://www.drupal.org/project/lunr">downloaded here</a>. There are no composer dependencies and a default search is provided out of the box, so if you enable it and kick off indexing at "/admin/config/lunr_search/default/index", you should be able to do a test search at&nbsp;<code>/search</code>. I know I’ve talked a bit about static sites in this post, but I think the Lunr module is useful for all sorts of sites. Having your search be static means less uncacheable hits to your backend, and potentially a faster experience for users, so please try it out if you’re interested!</p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: d9871794-7262-415a-a18e-fc784794b1c9

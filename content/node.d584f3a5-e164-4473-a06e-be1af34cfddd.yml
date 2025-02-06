@@ -132,6 +132,8 @@ body:
       <p>I’m relying on users to come up with the really cool stuff for Tome, and want to develop in the direction you’re all heading with static Drupal. Make me proud!</p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: d9871794-7262-415a-a18e-fc784794b1c9

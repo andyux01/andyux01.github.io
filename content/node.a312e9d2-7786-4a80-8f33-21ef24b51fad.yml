@@ -62,6 +62,8 @@ body:
       <p data-sourcepos="21:1-21:426">Rumah idaman adalah simbol harapan dan kebahagiaan. Dalam bisnis properti syariah, simbol ini semakin diperkuat dengan nilai-nilai agama, keadilan, dan keberkahan. Memiliki rumah idaman dengan cara yang benar adalah impian yang dapat diwujudkan. Dengan memilih <strong>skema bisnis</strong> properti syariah, kita tidak hanya mendapatkan rumah yang nyaman, tetapi juga investasi yang membawa kebaikan dan keberkahan bagi kita dan keluarga.</p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: 5b5950db-b429-4375-b12c-b7f826877279

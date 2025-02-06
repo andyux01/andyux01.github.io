@@ -169,6 +169,8 @@ body:
       <p><em>Edit 2/9/2020: I've added a style guide page for the components used on this site, <a href="/components">check it out at /components</a>!</em></p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: d9871794-7262-415a-a18e-fc784794b1c9

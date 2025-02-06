@@ -401,6 +401,8 @@ body:
       <center><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="400" src="https://www.youtube.com/embed/guw7pb-7gao" title="YouTube video player" width="600"></iframe></center>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: 10efe6cc-fa0a-4066-afee-dcaf17e0d82d

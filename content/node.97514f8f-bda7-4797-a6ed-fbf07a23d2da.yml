@@ -96,6 +96,8 @@ body:
       <p>Access bypass, or more specifically IDOR (insecure direct object references) in this case, is a common bug that’s often overlooked, maybe because it’s less exciting than code execution. When communicating the risk of something like this you have to tell a story like “Imagine a site where users can upload tax returns...”, then the severity becomes pretty clear. While Services is now hardened, I’m sure there are many similar bugs floating around Drupal. Happy hunting!</p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: d9871794-7262-415a-a18e-fc784794b1c9

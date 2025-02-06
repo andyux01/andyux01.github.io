@@ -5,6 +5,8 @@ dependencies:
   config:
     - field.storage.node.body
     - node.type.blog
+    - node.type.gallery_item
+    - node.type.work
   module:
     - node
     - text
@@ -474,6 +476,7 @@ display:
           plugin_id: bundle
           operator: in
           value:
+            all: all
             blog: blog
           group: 1
           exposed: false
@@ -561,8 +564,6 @@ display:
       row:
         type: node_rss
         options:
-          relationship: none
-          view_mode: default
       display_extenders:
         simple_sitemap_display_extender: {  }
       path: feed.xml

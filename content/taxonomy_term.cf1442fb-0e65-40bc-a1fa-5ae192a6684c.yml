@@ -15,21 +15,18 @@ status:
   - value: true
 name:
   - value: adil
-description:
-  - value: null
-    format: null
+description: {  }
 weight:
   - value: 0
 parent:
   - target_id: null
 changed:
-  - value: '2025-02-01T10:09:29+00:00'
+  - value: '2025-02-06T13:13:58+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   - value: true
 revision_translation_affected:
   - value: true
 path:
-  - alias: null
-    pid: null
+  - alias: /tag/adil
     langcode: en

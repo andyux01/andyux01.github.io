@@ -24,6 +24,7 @@ module:
   jsonapi_include: 0
   link: 0
   lunr: 0
+  lunr_facet_example: 0
   media: 0
   metatag: 0
   metatag_custom_tags: 0

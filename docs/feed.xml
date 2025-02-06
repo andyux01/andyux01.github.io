@@ -1,115 +1,51 @@
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://andy.propertysyariah.biz.id/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://andy.propertysyariah.biz.id/">
   <channel>
-    <title>Samuel Mortenson&#039;s personal blog</title>
+    <title>Blog Pribadi Andy Yulianto (Developer Property Syariah)</title>
     <link>https://andy.propertysyariah.biz.id/</link>
     <description>The latest from my mind to yours.</description>
     <language>en</language>
     
-    
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-<item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Menakar Nilai Jual Beli Bisnis
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andy.propertysyariah.biz.id/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/menakar-nilai-jual-beli-bisnis_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Dalam bisnis properti konvensional, keuntungan seringkali diukur secara materi, yaitu dalam bentuk uang atau aset. Namun, dalam properti syariah, keuntungan tidak hanya dilihat dari segi materi, tetapi juga dari segi non-materi, yaitu keberkahan dan keadilan.
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
-  <pubDate>Mon, 03 Feb 25 23:11:21 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-9d08fccf-4549-456d-be70-574e11a5a39c
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+    <item>
+  <title/>
+  <link>https://andy.propertysyariah.biz.id/</link>
+  <description/>
+  <pubDate/>
+    <dc:creator/>
+    <guid isPermaLink="false"/>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
-
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_row_rss' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
 <item>
-  <title>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Keuntungan Memiliki Properti
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</title>
-  <link>https://andy.propertysyariah.biz.id/__%3C%21--%20THEME%20DEBUG%20--%3E_%3C%21--%20THEME%20HOOK%3A%20%27views_view_field%27%20--%3E_%3C%21--%20BEGIN%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E_/blog/keuntungan-memiliki-properti_%3C%21--%20END%20OUTPUT%20from%20%27core/modules/views/templates/views-view-field.html.twig%27%20--%3E__</link>
-  <description>
-
-&lt;!-- THEME DEBUG --&gt;
-&lt;!-- THEME HOOK: &#039;views_view_field&#039; --&gt;
-&lt;!-- BEGIN OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-Setiap orang ingin memiliki rumah. Namun cara mendapatkan dan perilaku ketika sudah mendapatkan akan lebih penting. Terutama nilai ketika berperilaku dalam memperoleh dan kerjasamnya.
-&lt;!-- END OUTPUT from &#039;core/modules/views/templates/views-view-field.html.twig&#039; --&gt;
-
-</description>
-  <pubDate>Sat, 01 Feb 25 10:04:09 +0000</pubDate>
-    <dc:creator>
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-Samuel Mortenson
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</dc:creator>
-    <guid isPermaLink="false">
-
-<!-- THEME DEBUG -->
-<!-- THEME HOOK: 'views_view_field' -->
-<!-- BEGIN OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-a312e9d2-7786-4a80-8f33-21ef24b51fad
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-field.html.twig' -->
-
-</guid>
+  <title/>
+  <link>https://andy.propertysyariah.biz.id/</link>
+  <description/>
+  <pubDate/>
+    <dc:creator/>
+    <guid isPermaLink="false"/>
     </item>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-row-rss.html.twig' -->
-
+<item>
+  <title/>
+  <link>https://andy.propertysyariah.biz.id/</link>
+  <description/>
+  <pubDate/>
+    <dc:creator/>
+    <guid isPermaLink="false"/>
+    </item>
+<item>
+  <title/>
+  <link>https://andy.propertysyariah.biz.id/</link>
+  <description/>
+  <pubDate/>
+    <dc:creator/>
+    <guid isPermaLink="false"/>
+    </item>
+<item>
+  <title/>
+  <link>https://andy.propertysyariah.biz.id/</link>
+  <description/>
+  <pubDate/>
+    <dc:creator/>
+    <guid isPermaLink="false"/>
+    </item>
 
   </channel>
 </rss>
-
-<!-- END OUTPUT from 'core/modules/views/templates/views-view-rss.html.twig' -->
-

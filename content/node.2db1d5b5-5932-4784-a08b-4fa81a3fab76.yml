@@ -7,14 +7,14 @@ type:
     target_type: node_type
     target_uuid: a69e203f-098e-4d71-8a80-bb6f16209e20
 revision_timestamp:
-  - value: '2024-06-06T07:14:29+00:00'
+  - value: '2025-02-05T22:14:21+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   - target_type: user
     target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
 revision_log: {  }
 status:
-  - value: true
+  - value: false
 uid:
   - target_type: user
     target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
@@ -24,7 +24,7 @@ created:
   - value: '2024-06-06T07:12:59+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2024-06-06T07:14:29+00:00'
+  - value: '2025-02-05T22:14:21+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   - value: true
@@ -38,108 +38,42 @@ path:
   - alias: /work/ok-tugas
     langcode: en
 body:
-  - value: |-
-      <page-break break-type="site" title="Page" parent="item-9f79442c-019d-464a-86a3-60bae4c01848"
-      item-id="item-6b6806ab-721a-4b12-a065-07916e301efe" slug="welcome/page" description="halamanBy the end of this lesson, you should be able to...						one			two							three			four			What is strawberry in SpanishfresaHow large can the average great white shark grow to be"
-      order="0" published="" depth="0" icon-type="hax:page-details" entity-type="page"></page-break>
-      <p data-design-treatment="dropCap-md" data-accent="12" data-primary="17">halaman</p>
-      <learning-component type="objectives" subtitle="Unit 1" accent-color="indigo"
-      title="Learning Objectives" icon="courseicons:learning-objectives">
-        <p>By the end of this lesson, you should be able to...</p>
-      </learning-component>
-      <self-check accent-color="light-blue" title="SHARKS SELF CHECK" image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/480px-White_shark.jpg"
-      alt="Great White Shark" resource="#17f3f969-61b2-eda6-044b-20ab072760f9" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "><span slot="question">How large can the average great white shark grow to be?</span><span>The Great White shark can grow to be 15 ft to more than 20 ft in length and weigh 2.5 tons or more.</span>
-      </self-check>
-      <multiple-choice randomize="" max-attempts="0" attempts="0" typeof="oer:Assessment"
-      resource="#d8082bda-5eab-68c1-1d20-63ac87850738" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
-      correct-text="Great job!" incorrect-text="Better luck next time!" quiz-name="default"
-      t="{&quot;numCorrectLeft&quot;:&quot;You have&quot;,&quot;numCorrectRight&quot;:&quot;correct&quot;,&quot;checkAnswer&quot;:&quot;Check answer&quot;,&quot;tryAgain&quot;:&quot;Try again&quot;}"></multiple-choice>
-      <lrndesign-timeline accent-color="grey" timeline-size="sm" responsive-width="810"
-      events="[{&quot;heading&quot;:&quot;1855 - Charter&quot;,&quot;details&quot;:&quot;Charter now in effect signed by Governor Pollock, February 22; first Board of Trustees president, Judge Frederick Watts of Carlisle. Site in Centre County selected from nine offered throughout state; 200 acres donated by James Irvin with $10,000 pledge from citizens of Centre and Huntingdon counties.&quot;,&quot;imagealt&quot;:&quot;Propfile illustration of, James Pollock, Governor of Pennsylvania 1855-1858.&quot;,&quot;imagesrc&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/5/56/James_Pollock_Pennsylvania_Governor.jpg&quot;},{&quot;heading&quot;:&quot;1856 - Construction of Old Main&quot;,&quot;details&quot;:&quot;Construction of Old Main (the &quot;College Building&quot;) begun; supervised by William G. Waring, who was appointed superintendent to open the school and plan farm, orchards and nursery.&quot;,&quot;imagealt&quot;:&quot;Black and white photo original Old Main in an empty field.&quot;,&quot;imagesrc&quot;:&quot;https://libraries.psu.edu/sites/default/files/migrated/1287768717666.jpg&quot;},{&quot;heading&quot;:&quot;1874 - The Pennsylvania State College &quot;,&quot;details&quot;:&quot;School renamed The Pennsylvania State College. &quot;,&quot;imagesrc&quot;:&quot;&quot;},{&quot;heading&quot;:&quot;1953 - The Pennsylvania State University&quot;,&quot;details&quot;:&quot;The Pennsylvania State University became official name.&quot;,&quot;imagesrc&quot;:&quot;&quot;}]"></lrndesign-timeline>
-      <collection-item line1="HAX @ PSU" line2="Write HTML without realizing it"
-      line3="by @btopro" url="https://hax.psu.edu/" icon="hax:hax2022" tags="innovative, sustainable"></collection-item>
-      <collection-list accent-color="grey">
-        <collection-item line1="HAX @ PSU" line2="Write HTML without realizing it" line3="by @btopro"
-        url="https://hax.psu.edu/" icon="hax:hax2022"></collection-item>
-      </collection-list>
-      <site-collection-list accent-color="grey" responsive-size="lg" published="" limit="8"
-      sort="title" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" edit-mode=""></site-collection-list>
-      <page-section preset="antihero" filter="" full="" fold=""
-      scroller="" accent-color="blue" image="https://8080-andyux01-haxcms-716n8hoegp6.ws-us114.gitpod.io/sites/informatika/build/es6/node_modules/@haxtheweb/page-section/lib/assets/geo-bkg.png"
-      buttons="Really sharp" scroller-label="Scroll to reveal content" bg="var(--ddd-theme-default-limestoneLight)">
-        
+  - value: |
+      <page-break break-type="site" depth="0" description="halamanBy the end of this lesson, you should be able to...						one			two							three			four			What is strawberry in SpanishfresaHow large can the average great white shark grow to be" entity-type="page" icon-type="hax:page-details" item-id="item-6b6806ab-721a-4b12-a065-07916e301efe" order="0" parent="item-9f79442c-019d-464a-86a3-60bae4c01848" published="" slug="welcome/page" title="Page"></page-break>
+      <p>&nbsp;</p>
+
+      <p data-accent="12" data-design-treatment="dropCap-md" data-primary="17">halaman</p>
+
+      <p><learning-component accent-color="indigo" icon="courseicons:learning-objectives" subtitle="Unit 1" title="Learning Objectives" type="objectives"></learning-component></p>
+
+      <p>By the end of this lesson, you should be able to...</p>
+
+      <p> <self-check accent-color="light-blue" alt="Great White Shark" image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/480px-White_shark.jpg" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " resource="#17f3f969-61b2-eda6-044b-20ab072760f9" title="SHARKS SELF CHECK"><span slot="question">How large can the average great white shark grow to be?</span><span>The Great White shark can grow to be 15 ft to more than 20 ft in length and weigh 2.5 tons or more.</span> </self-check> <multiple-choice attempts="0" correct-text="Great job!" incorrect-text="Better luck next time!" max-attempts="0" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " quiz-name="default" randomize="" resource="#d8082bda-5eab-68c1-1d20-63ac87850738" t="{&quot;numCorrectLeft&quot;:&quot;You have&quot;,&quot;numCorrectRight&quot;:&quot;correct&quot;,&quot;checkAnswer&quot;:&quot;Check answer&quot;,&quot;tryAgain&quot;:&quot;Try again&quot;}" typeof="oer:Assessment"></multiple-choice> <lrndesign-timeline accent-color="grey" events="[{&quot;heading&quot;:&quot;1855 - Charter&quot;,&quot;details&quot;:&quot;Charter now in effect signed by Governor Pollock, February 22; first Board of Trustees president, Judge Frederick Watts of Carlisle. Site in Centre County selected from nine offered throughout state; 200 acres donated by James Irvin with $10,000 pledge from citizens of Centre and Huntingdon counties.&quot;,&quot;imagealt&quot;:&quot;Propfile illustration of, James Pollock, Governor of Pennsylvania 1855-1858.&quot;,&quot;imagesrc&quot;:&quot;https://upload.wikimedia.org/wikipedia/commons/5/56/James_Pollock_Pennsylvania_Governor.jpg&quot;},{&quot;heading&quot;:&quot;1856 - Construction of Old Main&quot;,&quot;details&quot;:&quot;Construction of Old Main (the &quot;College Building&quot;) begun; supervised by William G. Waring, who was appointed superintendent to open the school and plan farm, orchards and nursery.&quot;,&quot;imagealt&quot;:&quot;Black and white photo original Old Main in an empty field.&quot;,&quot;imagesrc&quot;:&quot;https://libraries.psu.edu/sites/default/files/migrated/1287768717666.jpg&quot;},{&quot;heading&quot;:&quot;1874 - The Pennsylvania State College &quot;,&quot;details&quot;:&quot;School renamed The Pennsylvania State College. &quot;,&quot;imagesrc&quot;:&quot;&quot;},{&quot;heading&quot;:&quot;1953 - The Pennsylvania State University&quot;,&quot;details&quot;:&quot;The Pennsylvania State University became official name.&quot;,&quot;imagesrc&quot;:&quot;&quot;}]" responsive-width="810" timeline-size="sm"></lrndesign-timeline> <collection-item icon="hax:hax2022" line1="HAX @ PSU" line2="Write HTML without realizing it" line3="by @btopro" tags="innovative, sustainable" url="https://hax.psu.edu/"></collection-item> <collection-list accent-color="grey"> <collection-item icon="hax:hax2022" line1="HAX @ PSU" line2="Write HTML without realizing it" line3="by @btopro" url="https://hax.psu.edu/"></collection-item> </collection-list> <site-collection-list accent-color="grey" edit-mode="" limit="8" published="" responsive-size="lg" sort="title" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}"></site-collection-list> <page-section accent-color="blue" bg="var(--ddd-theme-default-limestoneLight)" buttons="Really sharp" filter="" fold="" full="" image="https://8080-andyux01-haxcms-716n8hoegp6.ws-us114.gitpod.io/sites/informatika/build/es6/node_modules/@haxtheweb/page-section/lib/assets/geo-bkg.png" preset="antihero" scroller="" scroller-label="Scroll to reveal content">
       <h2>Sharp looking section</h2>
 
-        <hr>
-        <p>This is some sharp looking, well presented content</p>
-        <simple-cta hotline="" filled=""
-        outlined="" slot="buttons" accent-color="grey" remote-link-target="{}" icon="icons:chevron-right">Really sharp</simple-cta>
-      </page-section>
-      <person-testimonial accent-color="blue" dark="" position="Coffee drinker" name="bto-pro"
-      image="https://github.com/btopro.png">
-        <p>I at times, enjoy coffee. Those times, are all times.</p>
-      </person-testimonial>
-      <grid-plate item-margin="16" item-padding="16" layout="1-1">
-        <p slot="col-1">Column one content to replace</p>
-        <p slot="col-2">Column two content to replace</p>
-        <grid-plate disable-responsive="" layout="2-1"
-        slot="col-2">
-          
+      <hr />
+      <p>This is some sharp looking, well presented content</p>
+      <simple-cta accent-color="grey" filled="" hotline="" icon="icons:chevron-right" outlined="" remote-link-target="{}" slot="buttons">Really sharp</simple-cta> </page-section> <person-testimonial accent-color="blue" dark="" image="https://github.com/btopro.png" name="bto-pro" position="Coffee drinker">
+      <p>I at times, enjoy coffee. Those times, are all times.</p>
+      </person-testimonial> <grid-plate item-margin="16" item-padding="16" layout="1-1">
+      <p slot="col-1">Column one content to replace</p>
+
+      <p slot="col-2">Column two content to replace</p>
+      <grid-plate disable-responsive="" layout="2-1" slot="col-2">
       <h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2>
 
-          <p slot="col-1">The following stages of the process involves aligning the various scans to create
-            a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is
-            converted into a mesh, which is a solid 3D model, and the texture data captured by
-            the scanner is mapped back onto the mesh to add color, markings, and other details.
-            The final 3D model can be exported into other software platforms, such as Blender
-            and Instant Mesh, both of which are open-source.</p>
-          <p="true"="" slot="col-1">To optimize the model for web use, it must be reduced significantly in size. To
-            achieve this, the polygon count is reduced using Instant Mesh, and the resulting
-            low-polygon model is unwrapped, and the texture and additional details are added
-            through a process called “baking” onto the model using normal mapping. This is a
-            commonly used technique in film and video game production to reduce file sizes, processing
-            power, and other resources required.
-            <p></p>
-            <media-image citation="3D scanner and software shown scanning an ODL coffee mug."
-            accent-color="grey" size="wide" offset="none" slot="col-2" source="https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg"
-            card="" box=""></media-image>
-          </p="true"="">
-        </grid-plate>
-        <site-remote-content show-title="" slot="col-2" element-visible="" loading="" uuid="item-b649092c-471b-425d-ab21-458d2fb35211"
-        siteurl="https://stackoverflow.com/questions/44331005/npm-error-no-matching-version-found-for">
-          <div>Select content to load</div>
-        </site-remote-content>
-        <simple-tags tags="tag1, tag2, tag3" auto-accent-color="" slot="col-2" data-padding="xs"></simple-tags>
-        <p slot="col-2"></p>
-        <simple-tags tags="tag1, tag2, tag3" auto-accent-color="" slot="col-2" data-padding="xs"></simple-tags>
-        <image-compare-slider opacity="" top-src="https://images-assets.nasa.gov/image/jsc2018e049988/jsc2018e049988~thumb.jpg"
-        top-alt="jhjhjh" bottom-src="https://cdn2.thecatapi.com/images/9j5.jpg" bottom-alt=""
-        slot="col-2" accent-color="grey" resource="#5c605757-831a-78d3-062e-3b91e7c63ebb"
-        prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
-        element-visible="" position="50" t="{&quot;slideToCompareImages&quot;:&quot;Slide to compare images&quot;}"></image-compare-slider>
-        <twitter-embed tweet="https://twitter.com/btopro/status/1298632260707639298"
-        slot="col-2" _haxstate="" lang="en-US" data-width="550px" data-theme="light" tweet-id="1298632260707639298"
-        allow-popups="allow-popups"></twitter-embed>
-      </grid-plate>
-      <rpg-character seed="haxtheweb" hat="random" accent-color="orange" height="142"
-      width="113" accessories="9" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0"
-      skin="8" hat-color="0" speed="500" reduce-motion="" leg="R"></rpg-character>
-      <rpg-character seed="haxtheweb" hat="random" accent-color="orange"
-      height="142" width="113" accessories="9" base="0" face="1" face-item="8" hair="2"
-      pants="2" shirt="0" skin="8" hat-color="0" speed="500" reduce-motion="" leg="R"></rpg-character>
-      <rpg-character seed="haxtheweb" hat="random" accent-color="orange"
-      height="142" width="113" accessories="9" base="0" face="1" face-item="8" hair="2"
-      pants="2" shirt="0" skin="8" hat-color="0" leg="R" speed="500" reduce-motion=""></rpg-character>
-      <rpg-character accent-color="orange" accessories="9" height="142"
-      width="113" base="0" face="1" face-item="8" hair="2" pants="2" shirt="0" skin="8"
-      hat-color="0" hat="cowboy" leg="R" seed="haxtheweb" speed="500" reduce-motion=""
-      data-padding="xl"></rpg-character>
-      <media-image source="https://dummyimage.com/300x200/000/fff" card=""
-      citation="This is my citation." accent-color="grey" size="wide" offset="none"></media-image>
-      <date-card month="August" date="4" day="Friday" title="IST Ice Cream Social"
-      end-time="6PM" location="West Dining Commons" border-spacing="20" accent-color="blue"
-      dark=""></date-card>
-      <md-block markdown="- The first bulleted item in a long list.." accent-color="grey"></md-block>
+      <p slot="col-1">The following stages of the process involves aligning the various scans to create a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is converted into a mesh, which is a solid 3D model, and the texture data captured by the scanner is mapped back onto the mesh to add color, markings, and other details. The final 3D model can be exported into other software platforms, such as Blender and Instant Mesh, both of which are open-source.</p>
+      To optimize the model for web use, it must be reduced significantly in size. To achieve this, the polygon count is reduced using Instant Mesh, and the resulting low-polygon model is unwrapped, and the texture and additional details are added through a process called “baking” onto the model using normal mapping. This is a commonly used technique in film and video game production to reduce file sizes, processing power, and other resources required.
+
+      <p>&nbsp;</p>
+      <media-image accent-color="grey" box="" card="" citation="3D scanner and software shown scanning an ODL coffee mug." offset="none" size="wide" slot="col-2" source="https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg"></media-image> </grid-plate> <site-remote-content element-visible="" loading="" show-title="" siteurl="https://stackoverflow.com/questions/44331005/npm-error-no-matching-version-found-for" slot="col-2" uuid="item-b649092c-471b-425d-ab21-458d2fb35211">
+      <div>Select content to load</div>
+      </site-remote-content> <simple-tags auto-accent-color="" data-padding="xs" slot="col-2" tags="tag1, tag2, tag3"></simple-tags>
+
+      <p slot="col-2">&nbsp;</p>
+      <simple-tags auto-accent-color="" data-padding="xs" slot="col-2" tags="tag1, tag2, tag3"></simple-tags> <image-compare-slider accent-color="grey" bottom-alt="" bottom-src="https://cdn2.thecatapi.com/images/9j5.jpg" element-visible="" opacity="" position="50" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " resource="#5c605757-831a-78d3-062e-3b91e7c63ebb" slot="col-2" t="{&quot;slideToCompareImages&quot;:&quot;Slide to compare images&quot;}" top-alt="jhjhjh" top-src="https://images-assets.nasa.gov/image/jsc2018e049988/jsc2018e049988~thumb.jpg"></image-compare-slider> <twitter-embed _haxstate="" allow-popups="allow-popups" data-theme="light" data-width="550px" lang="en-US" slot="col-2" tweet="https://twitter.com/btopro/status/1298632260707639298" tweet-id="1298632260707639298"></twitter-embed> </grid-plate> <rpg-character accent-color="orange" accessories="9" base="0" face="1" face-item="8" hair="2" hat="random" hat-color="0" height="142" leg="R" pants="2" reduce-motion="" seed="haxtheweb" shirt="0" skin="8" speed="500" width="113"></rpg-character> <rpg-character accent-color="orange" accessories="9" base="0" face="1" face-item="8" hair="2" hat="random" hat-color="0" height="142" leg="R" pants="2" reduce-motion="" seed="haxtheweb" shirt="0" skin="8" speed="500" width="113"></rpg-character> <rpg-character accent-color="orange" accessories="9" base="0" face="1" face-item="8" hair="2" hat="random" hat-color="0" height="142" leg="R" pants="2" reduce-motion="" seed="haxtheweb" shirt="0" skin="8" speed="500" width="113"></rpg-character> <rpg-character accent-color="orange" accessories="9" base="0" data-padding="xl" face="1" face-item="8" hair="2" hat="cowboy" hat-color="0" height="142" leg="R" pants="2" reduce-motion="" seed="haxtheweb" shirt="0" skin="8" speed="500" width="113"></rpg-character> <media-image accent-color="grey" card="" citation="This is my citation." offset="none" size="wide" source="https://dummyimage.com/300x200/000/fff"></media-image> <date-card accent-color="blue" border-spacing="20" dark="" date="4" day="Friday" end-time="6PM" location="West Dining Commons" month="August" title="IST Ice Cream Social"></date-card> <md-block accent-color="grey" markdown="- The first bulleted item in a long list.."></md-block></p>
+
+      <p>&nbsp;</p>
     format: full_html
     summary: ''
 field_image: {  }

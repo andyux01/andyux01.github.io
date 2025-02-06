@@ -7,7 +7,7 @@ type:
     target_type: node_type
     target_uuid: a90c00e7-fd49-42a6-8cdb-e99ec16f7742
 revision_timestamp:
-  - value: '2025-02-05T10:09:04+00:00'
+  - value: '2025-02-05T10:51:39+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   - target_type: user
@@ -24,7 +24,7 @@ created:
   - value: '2025-02-05T09:59:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2025-02-05T10:09:04+00:00'
+  - value: '2025-02-05T12:11:43+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   - value: true
@@ -35,8 +35,7 @@ default_langcode:
 revision_translation_affected:
   - value: true
 path:
-  - alias: ''
-    pid: null
+  - alias: /blog/tata-cara-sholat-di-luar-rumah-saat-perjalanan-jauh
     langcode: en
 body:
   - value: |
@@ -84,6 +83,14 @@ body:
       &nbsp;</p>
     format: full_html
     summary: ''
+field_image:
+  - alt: 'camp sehari property syariah'
+    title: ''
+    width: 1280
+    height: 1280
+    target_type: file
+    target_uuid: 4d76135e-22b9-4a72-bd50-b79e338ac7fb
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: 4d9596c5-7bfe-4f6a-b9b1-7fad1d96bb0a

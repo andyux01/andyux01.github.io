@@ -15,11 +15,11 @@
         {
           'title': 'Basic usage' | t,
           'description': 'Note that the "Back" link changes based on the current node.' | t,
-          'twig': '{% include "sfc--mc-header" %}',
+          'twig': '{% include "sfc--mc_header" %}',
         },
         {
           'title': 'Displaying on the front page' | t,
-          'twig': '{% include "sfc--mc-header" with {"is_front": 1} %}',
+          'twig': '{% include "sfc--mc_header" with {"is_front": 1} %}',
         },
       ],
     } %}
@@ -39,7 +39,7 @@
       'usage': [
         {
           'title': 'Basic usage' | t,
-          'twig': '{% include "sfc--mc-footer" %}',
+          'twig': '{% include "sfc--mc_footer" %}',
         },
       ],
     } %}

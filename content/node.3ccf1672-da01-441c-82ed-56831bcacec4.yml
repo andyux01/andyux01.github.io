@@ -157,6 +157,8 @@ body:
       <p><em>Thanks to Jess (xjm), Michael Hess, and Moshe Weitzman for reviewing this before I posted it.</em></p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: d9871794-7262-415a-a18e-fc784794b1c9

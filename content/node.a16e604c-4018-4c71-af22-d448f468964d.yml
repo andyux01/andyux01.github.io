@@ -103,6 +103,8 @@ body:
       <p>Drupal released a fix in SA-CORE-2020-007 (CVE-2020-13666), which you can read about here: <a href="https://www.drupal.org/sa-core-2020-007">https://www.drupal.org/sa-core-2020-007</a>. Thanks to everyone who helped fix this bug!</p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: d9871794-7262-415a-a18e-fc784794b1c9

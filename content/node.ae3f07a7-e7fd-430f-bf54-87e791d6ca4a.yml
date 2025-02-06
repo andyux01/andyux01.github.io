@@ -24,7 +24,7 @@ created:
   - value: '2025-02-05T09:59:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
-  - value: '2025-02-05T10:51:39+00:00'
+  - value: '2025-02-05T12:11:43+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   - value: true
@@ -84,12 +84,13 @@ body:
     format: full_html
     summary: ''
 field_image:
-  - alt: 'muslim kiblat'
+  - alt: 'camp sehari property syariah'
     title: ''
-    width: 750
-    height: 401
+    width: 1280
+    height: 1280
     target_type: file
-    target_uuid: e0929a97-2821-4877-9111-b549a9afa51a
+    target_uuid: 4d76135e-22b9-4a72-bd50-b79e338ac7fb
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: 4d9596c5-7bfe-4f6a-b9b1-7fad1d96bb0a
@@ -105,4 +106,3 @@ field_tags:
     target_uuid: 0f302e00-6d7c-4310-874e-43baf013727b
   - target_type: taxonomy_term
     target_uuid: 373a8080-217d-44be-bc5f-8fcb0c31176c
-field_subtitle: {  }

@@ -1,0 +1,11 @@
+uuid: 23724794-1452-4923-aff9-eea99ca23a4e
+langcode: en
+status: true
+dependencies:
+  config:
+    - simple_sitemap.type.index
+id: article
+label: Article
+description: ''
+type: index
+weight: 0

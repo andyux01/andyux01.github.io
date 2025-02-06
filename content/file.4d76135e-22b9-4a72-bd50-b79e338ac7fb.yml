@@ -1,0 +1,23 @@
+uuid:
+  - value: 4d76135e-22b9-4a72-bd50-b79e338ac7fb
+langcode:
+  - value: en
+uid:
+  - target_type: user
+    target_uuid: 30bffdc0-96b3-4656-9078-3f8113359c60
+filename:
+  - value: camp.jpg
+uri:
+  - value: 'public://gallery/camp.jpg'
+filemime:
+  - value: image/jpeg
+filesize:
+  - value: 248545
+status:
+  - value: true
+created:
+  - value: '2025-02-05T12:11:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  - value: '2025-02-05T12:11:43+00:00'
+    format: 'Y-m-d\TH:i:sP'

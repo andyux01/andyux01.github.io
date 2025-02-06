@@ -7,10 +7,10 @@ dependencies:
     - field.field.node.blog.field_image
     - field.field.node.blog.field_subtitle
     - field.field.node.blog.field_tags
+    - image.style.medium
     - node.type.blog
-    - responsive_image.styles.work_full
   module:
-    - responsive_image
+    - image
     - text
     - user
 id: node.blog.default
@@ -26,13 +26,13 @@ content:
     weight: 101
     region: content
   field_image:
-    type: responsive_image
+    type: image
     label: hidden
     settings:
-      responsive_image_style: work_full
-      image_link: ''
+      image_link: content
+      image_style: medium
       image_loading:
-        attribute: eager
+        attribute: lazy
     third_party_settings: {  }
     weight: 103
     region: content

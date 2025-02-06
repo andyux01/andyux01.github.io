@@ -126,6 +126,8 @@ body:
       <p>If you read this far, give tabcms a try and enjoy what your browser can do all by itself. Thanks!</p>
     format: full_html
     summary: ''
+field_image: {  }
+field_subtitle: {  }
 field_tags:
   - target_type: taxonomy_term
     target_uuid: 10efe6cc-fa0a-4066-afee-dcaf17e0d82d
